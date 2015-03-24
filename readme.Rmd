@@ -73,6 +73,8 @@ Clean data used for the analysis is below.
 
 *[Payscale College Value Data Divided by Career](https://github.com/tonypaek/uni_value/blob/master/uni_career/uni_career.csv)*
 
+The codes used to scrap and process data are *[here]( https://github.com/tonypaek/uni_value/tree/master/Data_Processing)*.
+
 ## Impelementation
 ***
 
