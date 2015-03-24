@@ -35,9 +35,7 @@ Therefore, my data exploration will thus noy only look at the selectivity of a s
 
 20 year annual average return is calculated as below:
 
-$$
-Average Rate of Return = \frac{(Aggregate Earnings of Degree Holder)-(Aggregate Earnings of Highschoolers)-(4Year Tuition)}{(20* 4Year Tuition)}
-$$
+<img src="http://bit.ly/1HAVmQg" align="center" border="0" alt="Average Rate of Return = \frac{(Aggregate Earnings of Degree Holder)-(Aggregate Earnings of Highschoolers)-(4Year Tuition)}{(20* 4Year Tuition)}" width="1036" height="46" />
 
 ++ The choice of Y-Axis makes the graph uninformed. I don't think the rate of return on college investement is appropriate. When the graph does not even provide how much it costs to obtain a bachelor's degree at a particular institution, the variable at a y-axis that represents the annual return on average in percentage does not inform me how much an individual insittution would help the graduates earn. The aggregate return on investment over 20 years, on the other hand, would be a better piece of information.
 
@@ -69,13 +67,11 @@ Eventually, except for 24 colleges that did not have a match, all the universiti
 
 Clean data used for the analysis is below.
 
-U.S. News College Rank Data
+*[U.S. News College Rank Data + Payscale College Value Data](https://github.com/tonypaek/uni_value/blob/master/uni_rank_int/uni.csv)*
 
-Payscale College Value Data
+*[Payscale College Value Data Divided by Major](https://github.com/tonypaek/uni_value/blob/master/uni_major/uni_major.csv)*
 
-Payscale College Value Data Divided by Major
-
-Payscale College Value Data Divided by Career
+*[Payscale College Value Data Divided by Career](https://github.com/tonypaek/uni_value/blob/master/uni_career/uni_career.csv)*
 
 ## Impelementation
 ***
@@ -83,11 +79,20 @@ Payscale College Value Data Divided by Career
 **1. Static Graph (Rank vs ROI)**
 A simple static graph(sort of) was created, with the features that let me choose the x-axis variables, which can be accessed *[here](http://tonypaek.shinyapps.io/UniversityValue-rank-static)*.
 
+The codes used to produce the graph above are *[here](https://github.com/tonypaek/uni_value/tree/master/uni_rank_stat)*.
+
 **2. Interactive Graph (Rank vs ROI)**
 The graph lets users (i) filter the results by rank, admission rate, graduation rate, tuition cost, name, and (ii) select variables to be displayed for both x and y axis, which can be accessed *[here](http://tonypaek.shinyapps.io/UniversityValue-rank-interactive)*.
+
+The codes used to produce the graph above are *[here](https://github.com/tonypaek/uni_value/tree/master/uni_rank_int)*.
 
 **3. Interactive Graph Organized Grouped by Major **
 The graph lets users filter the results by ROI and total tuition, name of university, which can be accessed *[here](http://tonypaek.shinyapps.io/UniversityValue-Major)*.
 
+The codes used to produce the graph above are *[here](https://github.com/tonypaek/uni_value/tree/master/uni_rank_major)*.
+
+
 **4. Interactive Graph Organized Grouped by Career **
 The graph lets users filter the results by ROI and total tuition, name of university, which can be accessed *[here](http://tonypaek.shinyapps.io/UniversityValue-Career)*.
+
+The codes used to produce the graph above are *[here](https://github.com/tonypaek/uni_value/tree/master/uni_rank_career)*.
