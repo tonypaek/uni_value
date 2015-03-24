@@ -35,9 +35,9 @@ Therefore, my data exploration will thus noy only look at the selectivity of a s
 
 20 year annual average return is calculated as below:
 
-<img src="http://bit.ly/1HAVmQg" align="center" border="0" alt="Average Rate of Return = \frac{(Aggregate Earnings of Degree Holder)-(Aggregate Earnings of Highschoolers)-(4Year Tuition)}{(20* 4Year Tuition)}" width="700" height="46" />
+$$ Average Rate of Return = \frac{(Aggregate Earnings of Degree Holder)-(Aggregate Earnings of Highschoolers)-(4Year Tuition)}{(20* 4Year Tuition)} $$
 
-++ The choice of Y-Axis makes the graph uninformed. I don't think the rate of return on college investement is appropriate. When the graph does not even provide how much it costs to obtain a bachelor's degree at a particular institution, the variable at a y-axis that represents the annual return on average in percentage does not inform me how much an individual insittution would help the graduates earn. The aggregate return on investment over 20 years, on the other hand, would be a better piece of information.
+The choice of Y-Axis makes the graph uninformed. I don't think the rate of return on college investement is appropriate. When the graph does not even provide how much it costs to obtain a bachelor's degree at a particular institution, the variable at a y-axis that represents the annual return on average in percentage does not inform me how much an individual insittution would help the graduates earn. The aggregate return on investment over 20 years, on the other hand, would be a better piece of information.
 
 ### 3. Direction of Selected Variables
 
