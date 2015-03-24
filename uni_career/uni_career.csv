@@ -1,0 +1,1015 @@
+,Rank,Name,Value,Tuition,Graduation Rate,Loan,Major
+0,1,Academy of Art University,446000,147000,0.32,28240.0,Arts
+1,2,San Jose State University,360000,93000,0.48,20960.0,Arts
+2,3,San Francisco State University,356600,96400,0.45,22200.0,Arts
+3,4,"Fashion Institute of Technology - New York, NY",339700,83300,0.7,30280.0,Arts
+4,8,University of California - Los Angeles,297500,125500,0.9,24840.0,Arts
+5,9,Texas Tech University,289700,83300,0.59,30800.0,Arts
+6,10,Brigham Young University,275700,67300,0.78,22200.0,Arts
+7,11,"University of Maryland, Baltimore County",268200,94800,0.65,28120.0,Arts
+8,13,University of Washington,243800,99200,0.82,22520.0,Arts
+9,14,Ohio State University,229900,103100,0.83,28520.0,Arts
+10,16,University of Texas,222700,100300,0.79,23960.0,Arts
+11,17,Virginia Polytechnic Institute and State University,215000,98000,0.82,31000.0,Arts
+12,18,Boston University,210800,232200,0.84,40800.0,Arts
+13,19,Auburn University,210400,92600,0.68,28680.0,Arts
+14,21,University of Iowa,199000,84000,0.7,28040.0,Arts
+15,22,California State University - Northridge,198600,94400,0.46,19440.0,Arts
+16,23,California State University - Long Beach,194100,88900,0.6,21480.0,Arts
+17,24,University of Wisconsin,181100,71900,0.54,28400.0,Arts
+18,25,James Madison University,176600,86400,0.81,27640.0,Arts
+19,26,University of Colorado - Boulder,173300,109700,0.7,32920.0,Arts
+20,29,Michigan State University,169400,93600,0.77,27800.0,Arts
+21,31,University of Minnesota - Twin Cities,155500,97500,0.75,27920.0,Arts
+22,33,Rochester Institute of Technology,152000,181000,0.64,37120.0,Arts
+23,35,University of Nebraska - Lincoln,149600,83400,0.67,23720.0,Arts
+24,38,San Diego State University,147900,95100,0.66,23200.0,Arts
+25,39,Syracuse University,144200,218800,0.81,34720.0,Arts
+26,40,University of Central Florida,143600,79400,0.67,22600.0,Arts
+27,42,University of Illinois at Urbana-Champaign,141200,111800,0.84,26840.0,Arts
+28,45,Washington State University,129500,103500,0.65,26080.0,Arts
+29,46,Arizona State University,128700,94300,0.59,25240.0,Arts
+30,48,University of Cincinnati,124300,108700,0.58,27480.0,Arts
+31,49,University of Massachusetts,123300,99700,0.73,32600.0,Arts
+32,51,Rhode Island School of Design,118800,234200,0.87,27480.0,Arts
+33,52,Pennsylvania State University,116900,126100,0.85,35080.0,Arts
+34,53,University of Tennessee,115200,97800,0.68,24560.0,Arts
+35,54,University of North Texas,106600,76400,0.5,23080.0,Arts
+36,56,Colorado State University,101900,85100,0.64,24600.0,Arts
+37,57,Texas State University - San Marcos Campus,101600,77400,0.57,25600.0,Arts
+38,59,Ohio University - Main Campus,93200,95800,0.67,31720.0,Arts
+39,63,University of Kansas,83800,86200,0.62,26680.0,Arts
+40,67,University of Missouri - Columbia,77500,88500,0.7,27280.0,Arts
+41,70,Florida State University,73400,81600,0.77,27400.0,Arts
+42,74,Illinois State University,65200,100800,0.72,29200.0,Arts
+43,76,Western Michigan University,60600,88400,0.55,31240.0,Arts
+44,77,Purdue University - Main Campus,59700,91300,0.7,29840.0,Arts
+45,78,Indiana University,59000,90000,0.77,30520.0,Arts
+46,85,Savannah College of Art and Design,17000,194000,0.68,37240.0,Arts
+47,88,Georgia State University,5300,94700,0.53,24200.0,Arts
+48,89,"Columbia College - Chicago, IL",-10700,156700,0.41,31680.0,Arts
+49,92,Southern Illinois University,-23800,95800,0.43,29640.0,Arts
+50,93,"Bowling Green State University - Bowling Green, OH",-28100,91100,0.54,28120.0,Arts
+51,1,University of Pennsylvania,979000,234000,0.96,27760.0,Business
+52,2,"Cornell University - Ithaca, NY",840000,233000,0.93,24840.0,Business
+53,3,Georgia Institute of Technology,826300,86700,0.82,30600.0,Business
+54,4,University of California - Berkeley,823100,129900,0.91,23360.0,Business
+55,5,Stanford University,819700,233300,0.96,29880.0,Business
+56,6,Santa Clara University,816200,226800,0.84,27120.0,Business
+57,7,Johns Hopkins University,809700,233300,0.93,24920.0,Business
+58,8,Columbia University,771400,241600,0.93,32720.0,Business
+59,10,Carnegie Mellon University,738500,234500,0.88,34960.0,Business
+60,12,"Seton Hall University - South Orange, NJ",717000,196000,0.64,44800.0,Business
+61,13,Emory University,715400,227600,0.9,28920.0,Business
+62,14,California State University - Stanislaus,710500,82500,0.52,19360.0,Business
+63,14,Rensselaer Polytechnic Institute,710500,232500,0.85,40800.0,Business
+64,16,Boston College,692300,230700,0.91,18640.0,Business
+65,17,Harvard University,676100,227000,0.97,25080.0,Business
+66,19,Saint Mary's College of California,651000,222000,0.68,36640.0,Business
+67,20,"Clarkson University - Potsdam, NY",649000,214000,0.73,34760.0,Business
+68,21,SUNY - Binghamton University,646900,86100,0.81,27040.0,Business
+69,22,University of Notre Dame,646600,226400,0.95,25360.0,Business
+70,22,James Madison University,646600,86400,0.81,27640.0,Business
+71,24,University of Virginia,645100,97900,0.93,29760.0,Business
+72,25,University of Michigan - Ann Arbor,641500,101500,0.9,28240.0,Business
+73,26,Vanderbilt University,636800,236200,0.93,32680.0,Business
+74,27,Brigham Young University,635700,67300,0.78,22200.0,Business
+75,28,California Polytechnic State University,629800,93200,0.7,23360.0,Business
+76,29,Fordham University,623300,239700,0.81,29320.0,Business
+77,31,Hofstra University,609200,203800,0.62,40400.0,Business
+78,32,Trinity University,601300,181700,0.82,40400.0,Business
+79,33,Bentley University,596600,216400,0.87,27520.0,Business
+80,35,"Loyola University - Baltimore, MD",590200,222800,0.84,33560.0,Business
+81,36,University of Delaware,586600,96400,0.8,31320.0,Business
+82,38,Wake Forest University,574100,228900,0.86,29640.0,Business
+83,39,University of Washington,573800,99200,0.82,22520.0,Business
+84,40,Rutgers University - New Brunswick Campus,568800,114200,0.8,32240.0,Business
+85,41,Manhattan College,567900,185200,0.74,34440.0,Business
+86,42,New York University,563700,239300,0.83,34400.0,Business
+87,43,Bucknell University,560500,232500,0.91,26440.0,Business
+88,44,Villanova University,560100,222900,0.9,31080.0,Business
+89,45,Texas A&M University - Main Campus,559800,83200,0.79,24480.0,Business
+90,46,CUNY - Bernard M Baruch College,559600,103400,0.67,19960.0,Business
+91,47,Washington University in St. Louis,555000,238000,0.94,24760.0,Business
+92,48,George Washington University,549800,233200,0.81,29720.0,Business
+93,49,University of California - San Diego,545000,118000,0.86,22440.0,Business
+94,50,Lehigh University,543800,219200,0.86,32320.0,Business
+95,52,"Miami University - Oxford, OH",542800,120200,0.81,29280.0,Business
+96,53,California State University - San Bernardino,541200,81800,0.41,19240.0,Business
+97,53,University of Illinois at Urbana-Champaign,541200,111800,0.84,26840.0,Business
+98,56,University of Southern California,537500,235500,0.91,27600.0,Business
+99,58,University of Minnesota - Twin Cities,535500,97500,0.75,27920.0,Business
+100,59,Drexel University,533300,219700,0.7,45200.0,Business
+101,60,San Jose State University,530000,93000,0.48,20960.0,Business
+102,61,University of Massachusetts,525100,97900,0.49,27720.0,Business
+103,62,University of Maryland - College Park,521000,92000,0.84,29000.0,Business
+104,64,University of California - Los Angeles,517500,125500,0.9,24840.0,Business
+105,66,University of California - Santa Barbara,514900,128200,0.81,24120.0,Business
+106,68,George Mason University,510600,92400,0.67,28880.0,Business
+107,69,Fort Hays State University,509500,63500,0.45,23200.0,Business
+108,70,SUNY - Albany,508200,84800,0.66,25960.0,Business
+109,71,University of Houston,507700,85300,0.48,24640.0,Business
+110,72,"Pace University - New York, NY",503600,209400,0.51,33320.0,Business
+111,74,Montclair State University,499000,104000,0.63,32720.0,Business
+112,77,University of Missouri - Kansas City,495300,107700,0.51,26040.0,Business
+113,78,Virginia Polytechnic Institute and State University,495000,98000,0.82,31000.0,Business
+114,79,Northwestern University,493700,239300,0.94,23200.0,Business
+115,80,Indiana University,493000,90000,0.77,30520.0,Business
+116,81,Purdue University - Main Campus,491700,91300,0.7,29840.0,Business
+117,82,Sonoma State University,489700,93300,0.54,23200.0,Business
+118,85,Idaho State University,484700,78300,0.34,23760.0,Business
+119,89,SUNY - Geneseo,480000,83000,0.78,25600.0,Business
+120,90,University of San Francisco,479700,223300,0.69,34760.0,Business
+121,90,University of Connecticut,479700,103300,0.83,29760.0,Business
+122,94,Louisiana Tech University,473600,69400,0.49,19840.0,Business
+123,96,California State University - Fullerton,473500,89500,0.53,21800.0,Business
+124,97,Worcester State University,465900,87100,0.49,28000.0,Business
+125,100,Stony Brook University,459800,83200,0.66,24880.0,Business
+126,101,Michigan State University,459400,93600,0.77,27800.0,Business
+127,102,University of Georgia,459100,83900,0.83,23840.0,Business
+128,103,Bryant University,459000,204000,0.82,41200.0,Business
+129,104,Elon University,458000,165000,0.82,31960.0,Business
+130,105,Pennsylvania State University,456900,126100,0.85,35080.0,Business
+131,107,Howard University,451900,151100,0.61,34040.0,Business
+132,108,University of Rhode Island,449900,103100,0.63,25520.0,Business
+133,110,California State Polytechnic University - Pomona,449100,83900,0.52,23360.0,Business
+134,112,University of California - Irvine,445000,118000,0.86,21440.0,Business
+135,119,University of Arizona,438300,94700,0.61,24880.0,Business
+136,120,University of Florida,436800,76200,0.87,22720.0,Business
+137,122,West Chester University,436300,96700,0.69,32560.0,Business
+138,123,University of Alabama - Huntsville Campus,434700,88300,0.48,25160.0,Business
+139,125,University of Colorado - Boulder,433300,109700,0.7,32920.0,Business
+140,126,Gettysburg College,433200,219800,,,Business
+141,127,Northeastern University,432700,220300,0.83,25640.0,Business
+142,127,University of Texas,432700,100300,0.79,23960.0,Business
+143,129,California State University - East Bay,431500,91500,0.38,22520.0,Business
+144,130,"Northwood University - Midland, MI",431300,131800,0.54,26040.0,Business
+145,131,University of Illinois at Chicago,430300,112700,0.57,26360.0,Business
+146,132,California State University - Fresno,429700,83300,0.49,19880.0,Business
+147,135,CUNY - Hunter College,425300,77700,0.5,19640.0,Business
+148,136,University of Cincinnati,424300,108700,0.58,27480.0,Business
+149,137,Central Connecticut State University,424200,88800,0.52,25520.0,Business
+150,139,Quinnipiac University,422300,210700,0.76,42400.0,Business
+151,140,University of Wisconsin,421600,91400,0.83,30480.0,Business
+152,141,Rider University,419700,193300,0.66,42000.0,Business
+153,143,Arizona State University,418700,94300,0.59,25240.0,Business
+154,144,California State University - Northridge,418600,94400,0.46,19440.0,Business
+155,146,DePaul University,417000,186000,0.7,27520.0,Business
+156,147,Xavier University,415100,178000,0.76,34480.0,Business
+157,148,University of Dayton,412000,181000,0.77,40000.0,Business
+158,150,University of California - Riverside,410500,122600,0.66,20400.0,Business
+159,153,University of Arkansas - Main Campus,409400,83600,0.6,25760.0,Business
+160,153,University of San Diego,409400,223600,0.75,32800.0,Business
+161,156,Ohio University - Main Campus,407200,95800,0.67,31720.0,Business
+162,157,William Paterson University,407000,106000,0.5,29520.0,Business
+163,158,LeTourneau University,406700,146300,0.53,28400.0,Business
+164,159,San Francisco State University,406600,96400,0.45,22200.0,Business
+165,161,Wittenberg University,403800,199200,0.63,31600.0,Business
+166,165,Pacific Lutheran University,403500,179500,0.7,24440.0,Business
+167,166,California State University - Chico,402400,90600,0.56,20440.0,Business
+168,167,John Carroll University,401500,181500,0.75,28600.0,Business
+169,169,Boston University,400800,232200,0.84,40800.0,Business
+170,170,Auburn University,400400,92600,0.68,28680.0,Business
+171,171,Gonzaga University,399700,183300,0.82,26960.0,Business
+172,171,"Fashion Institute of Technology - New York, NY",399700,83300,0.7,30280.0,Business
+173,173,Marquette University,399500,183500,0.78,34120.0,Business
+174,175,University of California - Davis,397300,125700,0.81,22280.0,Business
+175,176,University of North Carolina at Chapel Hill,394300,88700,0.9,21400.0,Business
+176,177,Bridgewater State College,394100,88900,0.58,30520.0,Business
+177,177,Northern Illinois University,394100,108900,0.51,31640.0,Business
+178,179,University of Nevada - Las Vegas,393700,89300,0.43,22400.0,Business
+179,180,Indiana University-Purdue University - Indianapolis,390600,92400,0.42,25440.0,Business
+180,182,Rowan University,388000,105000,0.7,29240.0,Business
+181,183,University of New Hampshire,387600,115500,0.79,35760.0,Business
+182,184,University of Utah,386600,86400,0.6,27680.0,Business
+183,188,Temple University,385000,118000,0.66,33760.0,Business
+184,190,University of Missouri - Columbia,384500,88500,0.7,27280.0,Business
+185,191,"University of St. Thomas - St Paul, MN",384200,188800,0.75,41200.0,Business
+186,192,University of Oklahoma,383100,89900,0.66,28840.0,Business
+187,193,North Carolina A&T State University,382800,60200,0.43,29680.0,Business
+188,195,California State University - Sacramento,380800,92200,0.43,21960.0,Business
+189,198,Texas Tech University,379700,83300,0.59,30800.0,Business
+190,199,North Dakota State University,378300,74700,0.53,33080.0,Business
+191,201,University of Kansas,376800,86200,0.62,26680.0,Business
+192,201,"St. John's University - Queens, NY",376800,216200,0.56,30960.0,Business
+193,203,University of North Texas,376600,76400,0.5,23080.0,Business
+194,204,University of Idaho,375900,77100,0.54,22480.0,Business
+195,205,California State University - Long Beach,374100,88900,0.6,21480.0,Business
+196,208,Washburn University,371800,71200,0.37,23880.0,Business
+197,211,Dowling College,368200,164800,0.34,24480.0,Business
+198,212,University of Texas at Dallas,368100,94900,0.63,22800.0,Business
+199,216,Park University,365500,87500,0.43,22880.0,Business
+200,219,University of Alabama - Main Campus,363700,99300,0.67,37560.0,Business
+201,220,Tulane University,362500,230500,0.76,34240.0,Business
+202,221,Baylor University,361600,191400,0.75,50400.0,Business
+203,223,Salisbury University,359800,83200,0.67,25880.0,Business
+204,224,Morgan State University,359200,83800,0.34,31080.0,Business
+205,227,Colorado State University,357900,85100,0.64,24600.0,Business
+206,228,CUNY - Queens College,357700,95300,0.56,19800.0,Business
+207,229,Southern Nazarene University,357400,125600,0.47,26360.0,Business
+208,230,Central Washington University,357200,85900,0.51,23920.0,Business
+209,232,Lamar University,356900,86100,0.35,24640.0,Business
+210,233,Morehouse College,355400,177600,0.54,33280.0,Business
+211,234,Maryville University of Saint Louis,355300,157700,0.67,44000.0,Business
+212,236,Kansas State University,352400,80600,0.59,24240.0,Business
+213,236,Florida International University,352400,90600,0.52,20960.0,Business
+214,238,University of Nebraska - Lincoln,349600,83400,0.67,23720.0,Business
+215,239,Washington State University,349500,103500,0.65,26080.0,Business
+216,240,University of Iowa,349000,84000,0.7,28040.0,Business
+217,241,Sam Houston State University,348900,74100,0.51,25800.0,Business
+218,243,Iowa State University,347700,75300,0.68,26360.0,Business
+219,247,Bradley University,345700,157400,0.76,25040.0,Business
+220,249,Saint Leo University,345200,127800,0.46,28960.0,Business
+221,251,Syracuse University,344200,218800,0.81,34720.0,Business
+222,253,University of California - Santa Cruz,342700,130300,0.73,22840.0,Business
+223,254,Rochester Institute of Technology,342000,181000,0.64,37120.0,Business
+224,257,"Regis University - Denver, CO",340300,182700,0.58,26840.0,Business
+225,257,Louisiana State University and Agricultural & Mechanical College,340300,82700,0.69,24640.0,Business
+226,262,University of Mississippi,340000,83000,0.58,30480.0,Business
+227,265,University of Texas at El Paso,338800,84200,0.39,18120.0,Business
+228,266,Georgia State University,338300,94700,0.53,24200.0,Business
+229,267,"La Salle University - Philadelphia, PA",338000,195000,0.64,39080.0,Business
+230,268,San Diego State University,337900,95100,0.66,23200.0,Business
+231,271,Stephen F. Austin State University,336200,86800,0.43,28520.0,Business
+232,273,Texas State University - San Marcos Campus,335600,77400,0.57,25600.0,Business
+233,274,"Wayne State University - Detroit, MI",335500,87500,0.32,24320.0,Business
+234,276,Florida Atlantic University,334200,78800,0.41,23400.0,Business
+235,278,Towson University,333200,89800,0.65,26800.0,Business
+236,280,Valdosta State University,332000,81100,0.4,27760.0,Business
+237,282,Marist College,330100,182900,0.8,28960.0,Business
+238,284,University of Louisiana,328400,64600,0.45,19880.0,Business
+239,284,California State University - Los Angeles,328400,84600,0.36,16240.0,Business
+240,286,Western Washington University,327500,85500,0.69,23800.0,Business
+241,287,Southern Illinois University,327200,95800,0.43,29640.0,Business
+242,289,Dallas Baptist University,326300,126700,0.55,41200.0,Business
+243,292,Duquesne University,325500,167500,0.77,37440.0,Business
+244,293,Johnson & Wales University,325400,157700,0.58,36080.0,Business
+245,294,American University - Washington D.C.,325100,217900,0.8,33680.0,Business
+246,295,Clemson University,324600,108400,0.83,51600.0,Business
+247,296,Troy University,324200,68800,0.35,28440.0,Business
+248,297,University of Minnesota - Duluth Campus,322400,90600,0.59,29120.0,Business
+249,300,Ohio State University,319900,103100,0.83,28520.0,Business
+250,303,Southern Connecticut State University,317600,85400,0.49,27080.0,Business
+251,305,University at Buffalo,316100,86900,0.72,32320.0,Business
+252,306,University of Tennessee,315200,97800,0.68,24560.0,Business
+253,307,University of Nevada - Reno,314700,88300,0.51,35680.0,Business
+254,309,Southern Methodist University,313700,229300,0.79,31800.0,Business
+255,310,West Virginia University,313500,69500,0.57,30040.0,Business
+256,313,University of Kentucky,313100,89900,0.62,29360.0,Business
+257,313,Augsburg College,313100,169900,0.63,33240.0,Business
+258,317,University of Pittsburgh - Main Campus,312200,120800,0.8,36640.0,Business
+259,319,Eastern Illinois University,311300,91700,0.6,37560.0,Business
+260,321,Cardinal Stritch University,311000,152000,0.42,25200.0,Business
+261,321,Loyola Marymount University,311000,222000,0.76,30920.0,Business
+262,323,University of North Carolina at Charlotte,309900,73100,0.54,24080.0,Business
+263,325,Southern New Hampshire University,308200,164800,0.54,33800.0,Business
+264,327,Georgia Southern University,306700,86300,0.5,23800.0,Business
+265,328,University of Texas at Arlington,306400,86600,0.4,23840.0,Business
+266,331,Webster University,304600,158400,0.59,27400.0,Business
+267,332,Northern Arizona University,304100,88900,0.49,25280.0,Business
+268,333,Cleveland State University,303700,99300,0.32,25000.0,Business
+269,334,SUNY - College at Plattsburgh,303600,79400,0.6,25640.0,Business
+270,336,North Carolina State University,302400,80600,0.74,23360.0,Business
+271,340,Florida State University,301400,81600,0.77,27400.0,Business
+272,341,Old Dominion University,301100,81900,0.51,27560.0,Business
+273,344,Saint Cloud State University,300100,72900,0.48,29680.0,Business
+274,347,SUNY - College at Oswego,298400,84600,0.58,27520.0,Business
+275,351,Oregon State University,294100,88900,0.61,24880.0,Business
+276,354,University of Oregon,292400,90600,0.67,28480.0,Business
+277,357,Virginia Commonwealth University,291100,101900,0.57,28880.0,Business
+278,358,Kennesaw State University,290500,92500,0.43,22240.0,Business
+279,360,Central Michigan University,288800,84200,0.59,26640.0,Business
+280,363,University of Louisville,285700,87300,0.53,24240.0,Business
+281,365,Appalachian State University,284700,68300,0.69,22400.0,Business
+282,366,Western Michigan University,284600,88400,0.55,31240.0,Business
+283,373,Indiana University of Pennsylvania,282000,91000,0.51,33040.0,Business
+284,376,Oklahoma State University,278500,84500,0.6,23600.0,Business
+285,378,"Oakland University - Rochester Hills, MI",277500,85500,0.43,23200.0,Business
+286,379,Wichita State University,277200,65800,0.46,21920.0,Business
+287,381,Hampton University,275300,127700,0.68,32640.0,Business
+288,385,Roosevelt University,273300,169700,0.41,30320.0,Business
+289,387,Millersville University of Pennsylvania,272800,80200,0.61,30160.0,Business
+290,389,California State University - San Marcos,272000,91000,0.48,22600.0,Business
+291,391,University of New Orleans,269300,73700,0.32,19800.0,Business
+292,395,Winthrop University,265900,97100,0.56,30600.0,Business
+293,396,University of North Florida,265100,77900,0.5,24120.0,Business
+294,398,University of North Dakota,262900,80100,0.55,33240.0,Business
+295,400,Illinois State University,262200,100800,0.72,29200.0,Business
+296,404,McNeese State University,259600,63400,0.38,18760.0,Business
+297,406,University of Southern Maine,258000,95000,0.34,28120.0,Business
+298,408,Christopher Newport University,255000,98000,0.66,28320.0,Business
+299,409,The Richard Stockton College of New Jersey,254900,118100,0.65,35880.0,Business
+300,410,Geneva College,254700,138300,0.67,30480.0,Business
+301,411,Kean University,254000,109000,0.46,36560.0,Business
+302,412,University of Central Florida,253600,79400,0.67,22600.0,Business
+303,413,Youngstown State University,253000,80000,0.33,26000.0,Business
+304,415,"Bowling Green State University - Bowling Green, OH",251900,91100,0.54,28120.0,Business
+305,416,University of Vermont,251800,111200,0.76,27000.0,Business
+306,418,University of Miami,251300,231700,0.82,29440.0,Business
+307,421,Eastern Kentucky University,250300,72700,0.39,22960.0,Business
+308,422,University of West Florida,249900,73100,0.42,23240.0,Business
+309,424,Arkansas State University,247300,75700,0.37,21080.0,Business
+310,428,Boise State University,245000,78000,0.38,28040.0,Business
+311,430,Spring Arbor University,244300,128700,0.57,39320.0,Business
+312,431,Minnesota State University - Mankato Campus,244200,68800,0.49,30240.0,Business
+313,432,East Tennessee State University,242600,90400,0.41,22440.0,Business
+314,433,University of South Florida - Main Campus,241500,81500,0.63,28640.0,Business
+315,435,University of Maine at Orono,241000,92000,0.56,37240.0,Business
+316,437,University of Toledo,240500,92500,0.45,26240.0,Business
+317,439,Pittsburg State University,238500,64500,0.5,23120.0,Business
+318,441,Western Illinois University,237600,95400,0.56,30280.0,Business
+319,443,East Carolina University,236300,76700,0.56,27800.0,Business
+320,444,University of Central Oklahoma,235400,67600,0.36,22480.0,Business
+321,447,Barry University,234100,168900,0.37,29600.0,Business
+322,450,Radford University,233500,79500,0.59,29560.0,Business
+323,453,Tarleton State University,232500,70500,0.43,35400.0,Business
+324,454,Portland State University,232400,90600,0.42,24320.0,Business
+325,456,Winona State University,231500,81500,0.56,35080.0,Business
+326,457,Weber State University,230900,72100,0.35,20800.0,Business
+327,460,Northeastern State University,229700,53300,0.3,19800.0,Business
+328,462,Bloomsburg University of Pennsylvania,227500,85500,0.62,28880.0,Business
+329,464,University of Nebraska at Omaha,225800,77200,0.42,20640.0,Business
+330,465,University of Hawaii at Manoa,225300,87700,0.57,25920.0,Business
+331,473,Eastern Washington University,221700,81300,0.45,22680.0,Business
+332,474,Minnesota State University - Moorhead Campus,221500,71500,0.46,33800.0,Business
+333,475,University of Akron - Main Campus,221400,91600,0.42,27280.0,Business
+334,477,University of Missouri - St. Louis Campus,219200,103800,0.46,22280.0,Business
+335,478,Ball State University,218400,84600,0.59,27760.0,Business
+336,479,Liberty University,217600,125400,0.5,27840.0,Business
+337,484,"Columbia College - Columbia, MO",215000,88000,0.41,25200.0,Business
+338,485,University of Northern Colorado,214500,78500,0.46,26040.0,Business
+339,486,University of Memphis,214300,88700,0.43,22440.0,Business
+340,487,Upper Iowa University,214200,138800,,,Business
+341,488,Eastern Michigan University,213400,79600,0.38,27160.0,Business
+342,489,University of Texas at San Antonio,213000,80000,0.3,25080.0,Business
+343,490,SUNY - New Paltz,211400,81600,0.7,23800.0,Business
+344,494,University of South Carolina - Main Campus,209100,93900,0.73,28000.0,Business
+345,495,"Loyola University - Chicago, IL",208500,194500,0.71,32080.0,Business
+346,497,University of Southern Indiana,208300,74700,0.4,26760.0,Business
+347,499,University of Northern Iowa,206200,76800,0.66,22320.0,Business
+348,500,Kent State University,205800,97200,0.52,29960.0,Business
+349,502,Texas Woman's University,205300,67700,0.41,22280.0,Business
+350,511,University of Arkansas - Little Rock Campus,199000,84000,0.24,18920.0,Business
+351,513,Middle Tennessee State University,197800,85200,0.46,22160.0,Business
+352,514,University of Southern Mississippi,197700,75300,0.45,26880.0,Business
+353,515,University of West Georgia,196100,76900,0.43,26360.0,Business
+354,516,Ohio Dominican University,194800,158200,0.41,29000.0,Business
+355,516,Lindenwood University,194800,128200,0.45,23960.0,Business
+356,518,University of North Carolina at Greensboro,192600,70400,0.55,24520.0,Business
+357,519,Elmhurst College,191500,171500,0.74,27080.0,Business
+358,521,SUNY - Fredonia,191000,82000,0.64,30520.0,Business
+359,521,Western Kentucky University,191000,72000,0.44,25720.0,Business
+360,523,West Texas A & M University,190600,72400,0.4,22240.0,Business
+361,525,Missouri State University,189600,73400,0.53,24400.0,Business
+362,530,University of Alabama - Birmingham Campus,187300,85700,0.54,27200.0,Business
+363,532,Siena College,186200,176800,0.8,32160.0,Business
+364,535,Mississippi State University,181300,81700,0.61,27160.0,Business
+365,538,University of North Carolina at Asheville,179800,123200,,,Business
+366,539,Wright State University - Main Campus,178800,94200,0.41,28920.0,Business
+367,540,University of South Dakota,176900,76100,0.55,27040.0,Business
+368,546,SUNY - College at Brockport,173100,79900,0.67,29360.0,Business
+369,550,University of North Carolina at Wilmington,170000,73000,0.71,24640.0,Business
+370,554,Southeastern Louisiana University,167900,65100,0.36,18600.0,Business
+371,555,Clarion University of Pennsylvania,167500,85500,0.53,28680.0,Business
+372,560,College of Charleston,162600,100400,0.64,27080.0,Business
+373,563,Indiana Wesleyan University,160800,132200,0.65,29200.0,Business
+374,564,Robert Morris University,159000,154000,0.56,34160.0,Business
+375,572,Ithaca College,153900,209100,0.76,23520.0,Business
+376,573,Western Carolina University,153700,69300,0.51,22720.0,Business
+377,574,SUNY - College at Buffalo,151700,81300,0.49,25720.0,Business
+378,576,University of Montana,148500,74500,0.47,24480.0,Business
+379,579,Frostburg State University,146700,76300,0.47,33480.0,Business
+380,580,University of Michigan - Flint Campus,146100,86900,0.38,25960.0,Business
+381,581,University of Central Missouri,144900,72100,0.54,25720.0,Business
+382,588,Grand Valley State University,129300,85700,0.7,26800.0,Business
+383,589,Davenport University,127400,105600,0.39,37560.0,Business
+384,592,Kutztown University of Pennsylvania,124000,85000,0.55,34440.0,Business
+385,600,University of Tennessee at Chattanooga,104000,79000,0.37,21600.0,Business
+386,602,South Dakota State University,103100,72900,0.56,28280.0,Business
+387,603,"Loyola University - New Orleans, LA",100800,192200,0.55,26840.0,Business
+388,604,Southeast Missouri State University,97900,73100,0.49,24520.0,Business
+389,607,"Columbia College - Chicago, IL",86300,156700,0.41,31680.0,Business
+390,608,Indiana University-Purdue University - Fort Wayne,85800,95200,0.26,20960.0,Business
+391,610,Purdue University - Calumet Campus,83200,80800,0.31,22520.0,Business
+392,612,Evergreen State College,75500,84500,0.57,23160.0,Business
+393,614,Edinboro University of Pennsylvania,50700,80300,0.42,29000.0,Business
+394,1,University of California - San Diego,925000,118000,0.86,22440.0,Engineering
+395,2,University of California - Santa Barbara,874900,128200,0.81,24120.0,Engineering
+396,3,Louisiana Tech University,873600,69400,0.49,19840.0,Engineering
+397,6,University of Virginia,805100,97900,0.93,29760.0,Engineering
+398,7,California State University - Long Beach,804100,88900,0.6,21480.0,Engineering
+399,8,University of Louisiana,788400,64600,0.45,19880.0,Engineering
+400,10,Colorado School of Mines,761000,112000,0.7,30480.0,Engineering
+401,13,Louisiana State University and Agricultural & Mechanical College,750300,82700,0.69,24640.0,Engineering
+402,17,University of Washington,743800,99200,0.82,22520.0,Engineering
+403,18,University of Texas,742700,100300,0.79,23960.0,Engineering
+404,19,Texas A&M University - Main Campus,739800,83200,0.79,24480.0,Engineering
+405,20,Brigham Young University,735700,67300,0.78,22200.0,Engineering
+406,21,University of Maryland - College Park,731000,92000,0.84,29000.0,Engineering
+407,22,San Diego State University,727900,95100,0.66,23200.0,Engineering
+408,23,University of California - Los Angeles,727500,125500,0.9,24840.0,Engineering
+409,24,San Jose State University,720000,93000,0.48,20960.0,Engineering
+410,25,University of New Orleans,719300,73700,0.32,19800.0,Engineering
+411,26,New Mexico State University - Main Campus,707800,75200,0.43,19960.0,Engineering
+412,27,University of Houston,707700,85300,0.48,24640.0,Engineering
+413,30,California Polytechnic State University,699800,93200,0.7,23360.0,Engineering
+414,31,Texas Tech University,699700,83300,0.59,30800.0,Engineering
+415,31,University of Connecticut,699700,103300,0.83,29760.0,Engineering
+416,33,California State Polytechnic University - Pomona,699100,83900,0.52,23360.0,Engineering
+417,34,University of Utah,696600,86400,0.6,27680.0,Engineering
+418,41,Georgia Institute of Technology,676300,86700,0.82,30600.0,Engineering
+419,46,Arizona State University,668700,94300,0.59,25240.0,Engineering
+420,47,Massachusetts Institute of Technology,668500,224500,0.93,33680.0,Engineering
+421,49,Missouri University of Science and Technology,666000,87000,0.63,26400.0,Engineering
+422,50,University of Massachusetts,665400,97600,0.54,28080.0,Engineering
+423,51,Rose-Hulman Institute of Technology,665100,217900,0.73,40800.0,Engineering
+424,52,Kettering University,662900,190100,0.61,45600.0,Engineering
+425,53,Purdue University - Main Campus,661700,91300,0.7,29840.0,Engineering
+426,54,California State University - Sacramento,660800,92200,0.43,21960.0,Engineering
+427,57,University of California - Davis,657300,125700,0.81,22280.0,Engineering
+428,58,West Virginia University Institute of Technology,656200,66800,0.2,26360.0,Engineering
+429,61,Northeastern University,652700,220300,0.83,25640.0,Engineering
+430,63,University of Alabama - Huntsville Campus,644700,88300,0.48,25160.0,Engineering
+431,64,Michigan Technological University,641700,101300,0.65,29240.0,Engineering
+432,65,University of Michigan - Ann Arbor,641500,101500,0.9,28240.0,Engineering
+433,66,Oklahoma State University,638500,84500,0.6,23600.0,Engineering
+434,69,University of Colorado - Boulder,633300,109700,0.7,32920.0,Engineering
+435,70,University of California - Berkeley,633100,129900,0.91,23360.0,Engineering
+436,71,University of Pittsburgh - Main Campus,632200,120800,0.8,36640.0,Engineering
+437,72,University of South Alabama,631300,71700,0.33,31360.0,Engineering
+438,73,Old Dominion University,631100,81900,0.51,27560.0,Engineering
+439,75,University of Arizona,628300,94700,0.61,24880.0,Engineering
+440,76,University of New Mexico,627500,75500,0.48,21200.0,Engineering
+441,77,University of Florida,626800,76200,0.87,22720.0,Engineering
+442,79,University of Illinois at Urbana-Champaign,621200,111800,0.84,26840.0,Engineering
+443,80,Tennessee Technological University,619400,83600,0.51,19960.0,Engineering
+444,81,Montana State University - Main Campus,617500,75500,0.49,26120.0,Engineering
+445,84,University of Minnesota - Twin Cities,615500,97500,0.75,27920.0,Engineering
+446,85,University of Cincinnati,614300,108700,0.58,27480.0,Engineering
+447,87,University of North Dakota,612900,80100,0.55,33240.0,Engineering
+448,88,Embry-Riddle Aeronautical University,612500,180500,0.57,48000.0,Engineering
+449,90,Marquette University,609500,183500,0.78,34120.0,Engineering
+450,91,"Clarkson University - Potsdam, NY",609000,214000,0.73,34760.0,Engineering
+451,92,Wichita State University,607200,65800,0.46,21920.0,Engineering
+452,94,Utah State University - Main Campus,606400,66600,0.51,22320.0,Engineering
+453,95,University of Idaho,605900,77100,0.54,22480.0,Engineering
+454,96,Western Michigan University,604600,88400,0.55,31240.0,Engineering
+455,97,Oregon State University,604100,88900,0.61,24880.0,Engineering
+456,99,Michigan State University,599400,93600,0.77,27800.0,Engineering
+457,104,University of Maine at Orono,591000,92000,0.56,37240.0,Engineering
+458,107,"Wayne State University - Detroit, MI",585500,87500,0.32,24320.0,Engineering
+459,108,Virginia Polytechnic Institute and State University,585000,98000,0.82,31000.0,Engineering
+460,109,University of Wyoming,583500,69500,0.54,25680.0,Engineering
+461,110,Worcester Polytechnic Institute,582100,220900,0.81,43600.0,Engineering
+462,112,LeTourneau University,576700,146300,0.53,28400.0,Engineering
+463,114,University of Missouri - Columbia,574500,88500,0.7,27280.0,Engineering
+464,117,University of Wisconsin,571600,91400,0.83,30480.0,Engineering
+465,118,New Jersey Institute of Technology,570800,122200,0.58,32360.0,Engineering
+466,119,University of Nebraska - Lincoln,569600,83400,0.67,23720.0,Engineering
+467,120,Washington State University,569500,103500,0.65,26080.0,Engineering
+468,121,University of Iowa,569000,84000,0.7,28040.0,Engineering
+469,122,University of Texas at El Paso,568800,84200,0.39,18120.0,Engineering
+470,123,Pennsylvania State University,566900,126100,0.85,35080.0,Engineering
+471,129,University of Central Florida,563600,79400,0.67,22600.0,Engineering
+472,131,North Carolina State University,562400,80600,0.74,23360.0,Engineering
+473,132,Ohio State University,559900,103100,0.83,28520.0,Engineering
+474,132,University of Rhode Island,559900,103100,0.63,25520.0,Engineering
+475,134,Iowa State University,557700,75300,0.68,26360.0,Engineering
+476,135,University of Kansas,556800,86200,0.62,26680.0,Engineering
+477,136,University at Buffalo,556100,86900,0.72,32320.0,Engineering
+478,138,University of Tennessee,555200,97800,0.68,24560.0,Engineering
+479,140,Clemson University,554600,108400,0.83,51600.0,Engineering
+480,141,West Virginia University,553500,69500,0.57,30040.0,Engineering
+481,144,Kansas State University,552400,80600,0.59,24240.0,Engineering
+482,144,California State University - Chico,552400,90600,0.56,20440.0,Engineering
+483,146,Rensselaer Polytechnic Institute,550500,232500,0.85,40800.0,Engineering
+484,147,Saint Cloud State University,550100,72900,0.48,29680.0,Engineering
+485,153,Northern Illinois University,544100,108900,0.51,31640.0,Engineering
+486,154,Lehigh University,543800,219200,0.86,32320.0,Engineering
+487,155,University of Oklahoma,543100,89900,0.66,28840.0,Engineering
+488,157,Indiana University-Purdue University - Indianapolis,540600,92400,0.42,25440.0,Engineering
+489,158,Auburn University,540400,92600,0.68,28680.0,Engineering
+490,160,University of North Carolina at Charlotte,539900,73100,0.54,24080.0,Engineering
+491,163,University of South Florida - Main Campus,531500,81500,0.63,28640.0,Engineering
+492,164,Florida State University,531400,81600,0.77,27400.0,Engineering
+493,165,University of Toledo,530500,92500,0.45,26240.0,Engineering
+494,166,Central Michigan University,528800,84200,0.59,26640.0,Engineering
+495,170,Cleveland State University,523700,99300,0.32,25000.0,Engineering
+496,173,University of Akron - Main Campus,521400,91600,0.42,27280.0,Engineering
+497,174,Illinois Institute of Technology,521200,201800,0.63,29360.0,Engineering
+498,183,Oregon Institute of Technology,512300,80700,0.44,24800.0,Engineering
+499,185,Southern Illinois University,511300,91700,0.5,24920.0,Engineering
+500,187,University of Illinois at Chicago,510300,112700,0.57,26360.0,Engineering
+501,189,University of Arkansas - Main Campus,509400,83600,0.6,25760.0,Engineering
+502,192,Colorado State University,507900,85100,0.64,24600.0,Engineering
+503,200,North Dakota State University,498300,74700,0.53,33080.0,Engineering
+504,203,University of New Hampshire,497600,115500,0.79,35760.0,Engineering
+505,207,Southern Polytechnic State University,493300,69700,0.37,22640.0,Engineering
+506,209,Boston University,490800,232200,0.84,40800.0,Engineering
+507,213,Ohio University - Main Campus,487200,95800,0.67,31720.0,Engineering
+508,215,Temple University,485000,118000,0.66,33760.0,Engineering
+509,216,Drexel University,483300,219700,0.7,45200.0,Engineering
+510,217,Rochester Institute of Technology,482000,181000,0.64,37120.0,Engineering
+511,218,Weber State University,480900,72100,0.35,20800.0,Engineering
+512,221,University of Memphis,474300,88700,0.43,22440.0,Engineering
+513,222,University of Kentucky,473100,89900,0.62,29360.0,Engineering
+514,226,University of Southern California,467500,235500,0.91,27600.0,Engineering
+515,228,Minnesota State University - Mankato Campus,464200,68800,0.49,30240.0,Engineering
+516,229,Milwaukee School of Engineering,463000,180000,0.56,32640.0,Engineering
+517,230,North Carolina A&T State University,462800,60200,0.43,29680.0,Engineering
+518,231,Mississippi State University,461300,81700,0.61,27160.0,Engineering
+519,233,"Cornell University - Ithaca, NY",460000,233000,0.93,24840.0,Engineering
+520,239,Lawrence Technological University,448900,164100,0.49,31080.0,Engineering
+521,244,Wentworth Institute of Technology,443600,169400,0.63,36960.0,Engineering
+522,245,University of Texas at San Antonio,443000,80000,0.3,25080.0,Engineering
+523,249,Youngstown State University,433000,80000,0.33,26000.0,Engineering
+524,255,Washington University in St. Louis,415000,238000,0.94,24760.0,Engineering
+525,256,University of Dayton,412000,181000,0.77,40000.0,Engineering
+526,258,Florida Atlantic University,404200,78800,0.41,23400.0,Engineering
+527,258,Syracuse University,404200,218800,0.81,34720.0,Engineering
+528,262,Georgia Southern University,396700,86300,0.5,23800.0,Engineering
+529,263,University of Georgia,369100,83900,0.83,23840.0,Engineering
+530,266,Roger Williams University,351600,191400,0.63,43200.0,Engineering
+531,268,University of Miami,251300,231700,0.82,29440.0,Engineering
+532,269,Ball State University,238400,84600,0.59,27760.0,Engineering
+533,270,University of Oregon,202400,90600,0.67,28480.0,Engineering
+534,271,Kent State University,185800,97200,0.52,29960.0,Engineering
+535,1,University of Texas at Arlington,596400,86600,0.4,23840.0,Healthcare
+536,2,Ferris State University,575800,87200,0.43,29600.0,Healthcare
+537,4,New York University,563700,239300,0.83,34400.0,Healthcare
+538,5,San Jose State University,560000,93000,0.48,20960.0,Healthcare
+539,7,"Wayne State University - Detroit, MI",535500,87500,0.32,24320.0,Healthcare
+540,8,Drexel University,523300,219700,0.7,45200.0,Healthcare
+541,10,Midwestern State University,506900,66100,0.44,24600.0,Healthcare
+542,11,Texas Woman's University,505300,67700,0.41,22280.0,Healthcare
+543,14,University of Washington,473800,99200,0.82,22520.0,Healthcare
+544,16,Stony Brook University,459800,83200,0.66,24880.0,Healthcare
+545,17,University of Connecticut,439700,103300,0.83,29760.0,Healthcare
+546,18,University of Oklahoma,423100,89900,0.66,28840.0,Healthcare
+547,20,University of St. Francis,411000,152000,0.57,29080.0,Healthcare
+548,21,Texas Tech University,409700,83300,0.59,30800.0,Healthcare
+549,22,Rutgers University - New Brunswick Campus,408800,114200,0.8,32240.0,Healthcare
+550,24,Florida International University,402400,90600,0.52,20960.0,Healthcare
+551,27,Weber State University,370900,72100,0.35,20800.0,Healthcare
+552,28,South Dakota State University,370100,72900,0.56,28280.0,Healthcare
+553,30,University of Minnesota - Twin Cities,365500,97500,0.75,27920.0,Healthcare
+554,31,Idaho State University,364700,78300,0.34,23760.0,Healthcare
+555,32,Towson University,363200,89800,0.65,26800.0,Healthcare
+556,34,Rochester Institute of Technology,362000,181000,0.64,37120.0,Healthcare
+557,35,San Diego State University,357900,95100,0.66,23200.0,Healthcare
+558,38,University of South Alabama,351300,71700,0.33,31360.0,Healthcare
+559,39,University of New Mexico,347500,75500,0.48,21200.0,Healthcare
+560,40,Ohio University - Main Campus,347200,95800,0.67,31720.0,Healthcare
+561,42,Barry University,344100,168900,0.37,29600.0,Healthcare
+562,43,Virginia Commonwealth University,341100,101900,0.57,28880.0,Healthcare
+563,44,George Mason University,340600,92400,0.67,28880.0,Healthcare
+564,45,Eastern Kentucky University,340300,72700,0.39,22960.0,Healthcare
+565,47,University of Michigan - Ann Arbor,331500,101500,0.9,28240.0,Healthcare
+566,49,Florida Atlantic University,324200,78800,0.41,23400.0,Healthcare
+567,50,University of Wyoming,323500,69500,0.54,25680.0,Healthcare
+568,53,Northern Illinois University,314100,108900,0.51,31640.0,Healthcare
+569,56,University of Rhode Island,309900,103100,0.63,25520.0,Healthcare
+570,58,West Virginia University,293500,69500,0.57,30040.0,Healthcare
+571,59,University of Colorado - Boulder,293300,109700,0.7,32920.0,Healthcare
+572,61,University of South Florida - Main Campus,291500,81500,0.63,28640.0,Healthcare
+573,62,Old Dominion University,291100,81900,0.51,27560.0,Healthcare
+574,63,Johns Hopkins University,289700,233300,0.93,24920.0,Healthcare
+575,64,Southeastern Louisiana University,287900,65100,0.36,18600.0,Healthcare
+576,66,University of Utah,286600,86400,0.6,27680.0,Healthcare
+577,67,University of Wisconsin,286300,86700,0.41,28400.0,Healthcare
+578,68,California State University - Long Beach,284100,88900,0.6,21480.0,Healthcare
+579,69,Indiana University,283000,90000,0.77,30520.0,Healthcare
+580,71,Louisiana State University and Agricultural & Mechanical College,280300,82700,0.69,24640.0,Healthcare
+581,77,University of Florida,276800,76200,0.87,22720.0,Healthcare
+582,78,University of Central Florida,273600,79400,0.67,22600.0,Healthcare
+583,79,University of Texas,272700,100300,0.79,23960.0,Healthcare
+584,79,Northeastern University,272700,220300,0.83,25640.0,Healthcare
+585,82,Wright State University - Main Campus,268800,94200,0.41,28920.0,Healthcare
+586,83,University of Georgia,259100,83900,0.83,23840.0,Healthcare
+587,84,Southern Illinois University,257200,95800,0.43,29640.0,Healthcare
+588,85,Florida State University,251400,81600,0.77,27400.0,Healthcare
+589,87,University of Louisiana,248400,64600,0.45,19880.0,Healthcare
+590,91,Northwestern State University,245300,67700,0.37,21840.0,Healthcare
+591,92,Western Michigan University,244600,88400,0.55,31240.0,Healthcare
+592,94,Indiana University-Purdue University - Indianapolis,240600,92400,0.42,25440.0,Healthcare
+593,95,University of North Carolina at Charlotte,239900,73100,0.54,24080.0,Healthcare
+594,99,University of Alabama - Birmingham Campus,237300,85700,0.54,27200.0,Healthcare
+595,100,East Carolina University,236300,76700,0.56,27800.0,Healthcare
+596,101,Norfolk State University,233400,79600,0.34,28080.0,Healthcare
+597,102,Texas A&M University - Main Campus,229800,83200,0.79,24480.0,Healthcare
+598,110,Ohio State University,219900,103100,0.83,28520.0,Healthcare
+599,111,University of Southern Mississippi,217700,75300,0.45,26880.0,Healthcare
+600,112,Kent State University,215800,97200,0.52,29960.0,Healthcare
+601,113,Eastern Michigan University,213400,79600,0.38,27160.0,Healthcare
+602,119,Boise State University,205000,78000,0.38,28040.0,Healthcare
+603,121,University of North Carolina at Greensboro,202600,70400,0.55,24520.0,Healthcare
+604,123,University of Illinois at Chicago,200300,112700,0.57,26360.0,Healthcare
+605,124,Wichita State University,197200,65800,0.46,21920.0,Healthcare
+606,125,University of Kansas,196800,86200,0.62,26680.0,Healthcare
+607,126,University at Buffalo,196100,86900,0.72,32320.0,Healthcare
+608,128,University of Pittsburgh - Main Campus,192200,120800,0.8,36640.0,Healthcare
+609,130,Purdue University - Main Campus,191700,91300,0.7,29840.0,Healthcare
+610,132,University of Mississippi,190000,83000,0.58,30480.0,Healthcare
+611,138,University of Massachusetts,183300,99700,0.73,32600.0,Healthcare
+612,141,Arizona State University,178700,94300,0.59,25240.0,Healthcare
+613,142,Pennsylvania State University,176900,126100,0.85,35080.0,Healthcare
+614,143,University of Iowa,169000,84000,0.7,28040.0,Healthcare
+615,146,University of Missouri - Columbia,164500,88500,0.7,27280.0,Healthcare
+616,153,Saint Louis University,154000,209000,0.7,31000.0,Healthcare
+617,155,University of Kentucky,153100,89900,0.62,29360.0,Healthcare
+618,157,University of Maryland - College Park,151000,92000,0.84,29000.0,Healthcare
+619,160,Washington State University,149500,103500,0.65,26080.0,Healthcare
+620,162,McNeese State University,140600,63400,0.38,18760.0,Healthcare
+621,164,Georgia State University,128300,94700,0.53,24200.0,Healthcare
+622,170,Michigan State University,103400,93600,0.77,27800.0,Healthcare
+623,174,Ball State University,93400,84600,0.59,27760.0,Healthcare
+624,176,Illinois State University,69200,100800,0.72,29200.0,Healthcare
+625,178,University of Tennessee,43200,97800,0.68,24560.0,Healthcare
+626,182,"Bowling Green State University - Bowling Green, OH",22900,91100,0.54,28120.0,Healthcare
+627,183,Syracuse University,-2800,218800,0.81,34720.0,Healthcare
+628,186,North Carolina State University,-42600,80600,0.74,23360.0,Healthcare
+629,1,Stanford University,789700,233300,0.96,29880.0,Marketing
+630,2,"Clarkson University - Potsdam, NY",739000,214000,0.73,34760.0,Marketing
+631,3,University of California - Berkeley,733100,129900,0.91,23360.0,Marketing
+632,4,University of Pennsylvania,699000,234000,0.96,27760.0,Marketing
+633,5,Georgia Institute of Technology,696300,86700,0.82,30600.0,Marketing
+634,6,"Cornell University - Ithaca, NY",670000,233000,0.93,24840.0,Marketing
+635,7,University of Michigan - Ann Arbor,661500,101500,0.9,28240.0,Marketing
+636,10,Brigham Young University,595700,67300,0.78,22200.0,Marketing
+637,11,American University - Washington D.C.,585100,217900,0.8,33680.0,Marketing
+638,12,Santa Clara University,576200,226800,0.84,27120.0,Marketing
+639,14,California Polytechnic State University,549800,93200,0.7,23360.0,Marketing
+640,15,University of California - Los Angeles,547500,125500,0.9,24840.0,Marketing
+641,16,San Jose State University,540000,93000,0.48,20960.0,Marketing
+642,17,Texas A&M University - Main Campus,539800,83200,0.79,24480.0,Marketing
+643,18,California State Polytechnic University - Pomona,539100,83900,0.52,23360.0,Marketing
+644,19,University of Virginia,535100,97900,0.93,29760.0,Marketing
+645,20,University of California - Davis,517300,125700,0.81,22280.0,Marketing
+646,21,Bentley University,506600,216400,0.87,27520.0,Marketing
+647,23,California State University - Fresno,499700,83300,0.49,19880.0,Marketing
+648,26,University of Connecticut,489700,103300,0.83,29760.0,Marketing
+649,27,University of California - San Diego,485000,118000,0.86,22440.0,Marketing
+650,28,University of Texas,482700,100300,0.79,23960.0,Marketing
+651,29,University of Toledo,480500,92500,0.45,26240.0,Marketing
+652,30,Iowa State University,477700,75300,0.68,26360.0,Marketing
+653,32,University of Washington,473800,99200,0.82,22520.0,Marketing
+654,33,University of California - Santa Cruz,472700,130300,0.73,22840.0,Marketing
+655,34,University of California - Irvine,465000,118000,0.86,21440.0,Marketing
+656,35,University of Massachusetts,463300,99700,0.73,32600.0,Marketing
+657,36,Illinois State University,462200,100800,0.72,29200.0,Marketing
+658,37,Georgetown University - Washington D.C.,456300,236700,0.92,24040.0,Marketing
+659,40,University of California - Santa Barbara,444900,128200,0.81,24120.0,Marketing
+660,42,University of Maryland - College Park,441000,92000,0.84,29000.0,Marketing
+661,46,Rutgers University - New Brunswick Campus,428800,114200,0.8,32240.0,Marketing
+662,47,University of Delaware,426600,96400,0.8,31320.0,Marketing
+663,49,"Miami University - Oxford, OH",422800,120200,0.81,29280.0,Marketing
+664,50,California State University - Chico,422400,90600,0.56,20440.0,Marketing
+665,51,University of Dayton,422000,181000,0.77,40000.0,Marketing
+666,52,Purdue University - Main Campus,421700,91300,0.7,29840.0,Marketing
+667,53,University of Illinois at Urbana-Champaign,421200,111800,0.84,26840.0,Marketing
+668,55,Michigan State University,419400,93600,0.77,27800.0,Marketing
+669,56,University of Missouri - Columbia,414500,88500,0.7,27280.0,Marketing
+670,57,University of Oklahoma,413100,89900,0.66,28840.0,Marketing
+671,59,Washington State University,409500,103500,0.65,26080.0,Marketing
+672,60,California State University - Northridge,408600,94400,0.46,19440.0,Marketing
+673,61,University of Houston,407700,85300,0.48,24640.0,Marketing
+674,62,University of Minnesota - Twin Cities,405500,97500,0.75,27920.0,Marketing
+675,63,Indiana University,403000,90000,0.77,30520.0,Marketing
+676,65,Hofstra University,399200,203800,0.62,40400.0,Marketing
+677,66,University of Arizona,398300,94700,0.61,24880.0,Marketing
+678,67,Syracuse University,394200,218800,0.81,34720.0,Marketing
+679,68,California State University - Long Beach,394100,88900,0.6,21480.0,Marketing
+680,69,Ithaca College,393900,209100,0.76,23520.0,Marketing
+681,70,University of Alabama - Main Campus,393700,99300,0.67,37560.0,Marketing
+682,73,Texas Tech University,389700,83300,0.59,30800.0,Marketing
+683,75,University of Cincinnati,384300,108700,0.58,27480.0,Marketing
+684,77,Boston University,380800,232200,0.84,40800.0,Marketing
+685,78,University of Iowa,379000,84000,0.7,28040.0,Marketing
+686,79,Sam Houston State University,378900,74100,0.51,25800.0,Marketing
+687,80,Arizona State University,378700,94300,0.59,25240.0,Marketing
+688,83,University of Utah,376600,86400,0.6,27680.0,Marketing
+689,85,Virginia Polytechnic Institute and State University,375000,98000,0.82,31000.0,Marketing
+690,87,"Fashion Institute of Technology - New York, NY",369700,83300,0.7,30280.0,Marketing
+691,91,"University of St. Thomas - St Paul, MN",364200,188800,0.75,41200.0,Marketing
+692,92,Wittenberg University,363800,199200,0.63,31600.0,Marketing
+693,97,Towson University,363200,89800,0.65,26800.0,Marketing
+694,98,Boston College,362300,230700,0.91,18640.0,Marketing
+695,99,University of Wisconsin,361600,91400,0.83,30480.0,Marketing
+696,104,University of Georgia,359100,83900,0.83,23840.0,Marketing
+697,105,"Loyola University - Chicago, IL",358500,194500,0.71,32080.0,Marketing
+698,107,Ohio University - Main Campus,357200,95800,0.67,31720.0,Marketing
+699,108,University of North Texas,356600,76400,0.5,23080.0,Marketing
+700,109,University of Idaho,355900,77100,0.54,22480.0,Marketing
+701,110,Western Michigan University,354600,88400,0.55,31240.0,Marketing
+702,112,Saint Cloud State University,350100,72900,0.48,29680.0,Marketing
+703,113,University of Rhode Island,349900,103100,0.63,25520.0,Marketing
+704,114,Marquette University,349500,183500,0.78,34120.0,Marketing
+705,117,San Diego State University,347900,95100,0.66,23200.0,Marketing
+706,117,Colorado State University,347900,85100,0.64,24600.0,Marketing
+707,119,University of New Hampshire,347600,115500,0.79,35760.0,Marketing
+708,120,University of Southern California,347500,235500,0.91,27600.0,Marketing
+709,122,James Madison University,346600,86400,0.81,27640.0,Marketing
+710,123,Temple University,345000,118000,0.66,33760.0,Marketing
+711,124,California State University - Fullerton,343500,89500,0.53,21800.0,Marketing
+712,125,Rochester Institute of Technology,342000,181000,0.64,37120.0,Marketing
+713,127,Louisiana State University and Agricultural & Mechanical College,340300,82700,0.69,24640.0,Marketing
+714,131,Villanova University,340100,222900,0.9,31080.0,Marketing
+715,133,Western Washington University,337500,85500,0.69,23800.0,Marketing
+716,134,DePaul University,337000,186000,0.7,27520.0,Marketing
+717,140,University of Colorado - Boulder,323300,109700,0.7,32920.0,Marketing
+718,141,University of North Carolina at Greensboro,322600,70400,0.55,24520.0,Marketing
+719,142,University of Oregon,322400,90600,0.67,28480.0,Marketing
+720,145,University of Nebraska - Lincoln,319600,83400,0.67,23720.0,Marketing
+721,151,University at Buffalo,316100,86900,0.72,32320.0,Marketing
+722,152,New York University,313700,239300,0.83,34400.0,Marketing
+723,153,California State University - Sacramento,310800,92200,0.43,21960.0,Marketing
+724,154,Gonzaga University,309700,183300,0.82,26960.0,Marketing
+725,155,Bryant University,309000,204000,0.82,41200.0,Marketing
+726,157,University of Texas at Arlington,306400,86600,0.4,23840.0,Marketing
+727,158,Stephen F. Austin State University,306200,86800,0.43,28520.0,Marketing
+728,161,Southern Methodist University,303700,229300,0.79,31800.0,Marketing
+729,163,Northeastern University,302700,220300,0.83,25640.0,Marketing
+730,165,Baylor University,301600,191400,0.75,50400.0,Marketing
+731,167,SUNY - Albany,298200,84800,0.66,25960.0,Marketing
+732,169,Kent State University,295800,97200,0.52,29960.0,Marketing
+733,171,University of Tennessee,295200,97800,0.68,24560.0,Marketing
+734,173,University of North Carolina at Chapel Hill,294300,88700,0.9,21400.0,Marketing
+735,174,Oregon State University,294100,88900,0.61,24880.0,Marketing
+736,176,Auburn University,290400,92600,0.68,28680.0,Marketing
+737,177,University of Illinois at Chicago,290300,112700,0.57,26360.0,Marketing
+738,178,Central Michigan University,288800,84200,0.59,26640.0,Marketing
+739,179,Southern Illinois University,287200,95800,0.43,29640.0,Marketing
+740,182,Texas State University - San Marcos Campus,285600,77400,0.57,25600.0,Marketing
+741,184,Northern Illinois University,284100,108900,0.51,31640.0,Marketing
+742,189,North Carolina State University,282400,80600,0.74,23360.0,Marketing
+743,190,Florida State University,281400,81600,0.77,27400.0,Marketing
+744,192,Pennsylvania State University,276900,126100,0.85,35080.0,Marketing
+745,193,University of Kansas,276800,86200,0.62,26680.0,Marketing
+746,194,University of Northern Iowa,276200,76800,0.66,22320.0,Marketing
+747,199,University of Montana,268500,74500,0.47,24480.0,Marketing
+748,200,Middle Tennessee State University,267800,85200,0.46,22160.0,Marketing
+749,205,University of Vermont,261800,111200,0.76,27000.0,Marketing
+750,206,University of South Carolina - Main Campus,259100,93900,0.73,28000.0,Marketing
+751,207,Georgia State University,258300,94700,0.53,24200.0,Marketing
+752,208,University of Florida,256800,76200,0.87,22720.0,Marketing
+753,209,West Chester University,256300,96700,0.69,32560.0,Marketing
+754,210,Kansas State University,252400,80600,0.59,24240.0,Marketing
+755,210,Portland State University,252400,90600,0.42,24320.0,Marketing
+756,213,University of South Florida - Main Campus,251500,81500,0.63,28640.0,Marketing
+757,214,Kennesaw State University,250500,92500,0.43,22240.0,Marketing
+758,215,University of San Diego,249400,223600,0.75,32800.0,Marketing
+759,217,Western Illinois University,247600,95400,0.56,30280.0,Marketing
+760,219,Appalachian State University,244700,68300,0.69,22400.0,Marketing
+761,220,Eastern Illinois University,241300,91700,0.6,37560.0,Marketing
+762,226,Oklahoma State University,238500,84500,0.6,23600.0,Marketing
+763,227,Calvin College,238000,155000,0.73,31120.0,Marketing
+764,227,Rowan University,238000,105000,0.7,29240.0,Marketing
+765,231,Florida Atlantic University,234200,78800,0.41,23400.0,Marketing
+766,236,University of West Georgia,226100,76900,0.43,26360.0,Marketing
+767,238,University of Central Florida,223600,79400,0.67,22600.0,Marketing
+768,239,West Virginia University,223500,69500,0.57,30040.0,Marketing
+769,240,University of Texas at San Antonio,223000,80000,0.3,25080.0,Marketing
+770,241,Indiana University of Pennsylvania,222000,91000,0.51,33040.0,Marketing
+771,244,Ohio State University,219900,103100,0.83,28520.0,Marketing
+772,246,Seattle University,216500,196500,0.77,29200.0,Marketing
+773,248,University of North Florida,215100,77900,0.5,24120.0,Marketing
+774,255,San Francisco State University,206600,96400,0.45,22200.0,Marketing
+775,257,Eastern Washington University,201700,81300,0.45,22680.0,Marketing
+776,259,Ferris State University,195800,87200,0.43,29600.0,Marketing
+777,260,University of Kentucky,193100,89900,0.62,29360.0,Marketing
+778,264,"Bowling Green State University - Bowling Green, OH",191900,91100,0.54,28120.0,Marketing
+779,269,East Carolina University,186300,76700,0.56,27800.0,Marketing
+780,269,"Columbia College - Chicago, IL",186300,156700,0.41,31680.0,Marketing
+781,271,Northern Arizona University,184100,88900,0.49,25280.0,Marketing
+782,276,"Wayne State University - Detroit, MI",175500,87500,0.32,24320.0,Marketing
+783,286,Ball State University,158400,84600,0.59,27760.0,Marketing
+784,287,Georgia Southern University,156700,86300,0.5,23800.0,Marketing
+785,288,University of Louisville,155700,87300,0.53,24240.0,Marketing
+786,292,Minnesota State University - Mankato Campus,144200,68800,0.49,30240.0,Marketing
+787,293,University of Southern Mississippi,142700,75300,0.45,26880.0,Marketing
+788,303,University of Central Oklahoma,93400,67600,0.36,22480.0,Marketing
+789,304,Virginia Commonwealth University,84100,101900,0.57,28880.0,Marketing
+790,307,SUNY - Fredonia,6000,82000,0.64,30520.0,Marketing
+791,1,Stanford University,1269700,233300,0.96,29880.0,Technology
+792,2,University of California - Berkeley,1143100,129900,0.91,23360.0,Technology
+793,4,Columbia University,991400,241600,0.93,32720.0,Technology
+794,5,University of California - San Diego,975000,118000,0.86,22440.0,Technology
+795,6,University of Pennsylvania,939000,234000,0.96,27760.0,Technology
+796,7,Georgia Institute of Technology,926300,86700,0.82,30600.0,Technology
+797,8,Carnegie Mellon University,908500,234500,0.88,34960.0,Technology
+798,10,"Cornell University - Ithaca, NY",880000,233000,0.93,24840.0,Technology
+799,11,Santa Clara University,876200,226800,0.84,27120.0,Technology
+800,12,University of Virginia,875100,97900,0.93,29760.0,Technology
+801,13,Worcester Polytechnic Institute,862100,220900,0.81,43600.0,Technology
+802,15,James Madison University,846600,86400,0.81,27640.0,Technology
+803,16,University of Maryland - College Park,841000,92000,0.84,29000.0,Technology
+804,17,Colorado School of Mines,831000,112000,0.7,30480.0,Technology
+805,18,San Jose State University,820000,93000,0.48,20960.0,Technology
+806,19,Evergreen State College,818500,84500,0.57,23160.0,Technology
+807,20,Virginia Polytechnic Institute and State University,815000,98000,0.82,31000.0,Technology
+808,21,University of Washington,813800,99200,0.82,22520.0,Technology
+809,22,California Polytechnic State University,809800,93200,0.7,23360.0,Technology
+810,23,Lawrence Technological University,808900,164100,0.49,31080.0,Technology
+811,24,University of Michigan - Ann Arbor,801500,101500,0.9,28240.0,Technology
+812,26,Texas A&M University - Main Campus,789800,83200,0.79,24480.0,Technology
+813,27,Vanderbilt University,786800,236200,0.93,32680.0,Technology
+814,28,San Francisco State University,786600,96400,0.45,22200.0,Technology
+815,29,Park University,785500,87500,0.43,22880.0,Technology
+816,30,Washington University in St. Louis,785000,238000,0.94,24760.0,Technology
+817,31,New Jersey Institute of Technology,780800,122200,0.58,32360.0,Technology
+818,32,George Mason University,780600,92400,0.67,28880.0,Technology
+819,33,Rensselaer Polytechnic Institute,780500,232500,0.85,40800.0,Technology
+820,34,University of Connecticut,779700,103300,0.83,29760.0,Technology
+821,35,University of Massachusetts,775400,97600,0.54,28080.0,Technology
+822,37,Syracuse University,774200,218800,0.81,34720.0,Technology
+823,42,University of California - Los Angeles,767500,125500,0.9,24840.0,Technology
+824,43,Rose-Hulman Institute of Technology,765100,217900,0.73,40800.0,Technology
+825,45,Rutgers University - New Brunswick Campus,758800,114200,0.8,32240.0,Technology
+826,47,Brigham Young University,755700,67300,0.78,22200.0,Technology
+827,48,University of California - Irvine,755000,118000,0.86,21440.0,Technology
+828,49,University of Texas,752700,100300,0.79,23960.0,Technology
+829,50,Boston College,752300,230700,0.91,18640.0,Technology
+830,51,University of Illinois at Urbana-Champaign,751200,111800,0.84,26840.0,Technology
+831,51,Illinois Institute of Technology,751200,201800,0.63,29360.0,Technology
+832,53,Stony Brook University,749800,83200,0.66,24880.0,Technology
+833,54,University of Utah,746600,86400,0.6,27680.0,Technology
+834,54,University of Notre Dame,746600,226400,0.95,25360.0,Technology
+835,58,University of California - Davis,737300,125700,0.81,22280.0,Technology
+836,59,Lehigh University,733800,219200,0.86,32320.0,Technology
+837,61,University of Texas at Dallas,728100,94900,0.63,22800.0,Technology
+838,64,Purdue University - Main Campus,721700,91300,0.7,29840.0,Technology
+839,65,University of Southern California,717500,235500,0.91,27600.0,Technology
+840,66,Case Western Reserve University,713000,220000,0.8,29800.0,Technology
+841,70,Bryant University,709000,204000,0.82,41200.0,Technology
+842,71,"University of Maryland, Baltimore County",708200,94800,0.65,28120.0,Technology
+843,73,SUNY - Binghamton University,706900,86100,0.81,27040.0,Technology
+844,74,Northwestern University,703700,239300,0.94,23200.0,Technology
+845,76,North Carolina State University,702400,80600,0.74,23360.0,Technology
+846,77,University of Colorado - Denver Campus,701000,92000,0.41,21760.0,Technology
+847,78,California State Polytechnic University - Pomona,699100,83900,0.52,23360.0,Technology
+848,80,University of Houston,697700,85300,0.48,24640.0,Technology
+849,82,California State University - Sacramento,690800,92200,0.43,21960.0,Technology
+850,83,Texas Tech University,689700,83300,0.59,30800.0,Technology
+851,85,Florida Atlantic University,684200,78800,0.41,23400.0,Technology
+852,86,New York University,683700,239300,0.83,34400.0,Technology
+853,87,University of California - Santa Cruz,682700,130300,0.73,22840.0,Technology
+854,88,Kansas State University,682400,80600,0.59,24240.0,Technology
+855,89,University of Wisconsin,682300,70700,0.67,25600.0,Technology
+856,90,Washington State University,679500,103500,0.65,26080.0,Technology
+857,91,"Clarkson University - Potsdam, NY",679000,214000,0.73,34760.0,Technology
+858,92,California State University - Los Angeles,678400,84600,0.36,16240.0,Technology
+859,94,"Wayne State University - Detroit, MI",675500,87500,0.32,24320.0,Technology
+860,95,University of California - Santa Barbara,674900,128200,0.81,24120.0,Technology
+861,96,Northeastern University,672700,220300,0.83,25640.0,Technology
+862,98,Virginia Commonwealth University,671100,101900,0.57,28880.0,Technology
+863,100,Villanova University,670100,222900,0.9,31080.0,Technology
+864,102,University of Minnesota - Twin Cities,665500,97500,0.75,27920.0,Technology
+865,104,West Virginia University,663500,69500,0.57,30040.0,Technology
+866,106,California State University - Chico,662400,90600,0.56,20440.0,Technology
+867,107,California State University - San Bernardino,661200,81800,0.41,19240.0,Technology
+868,109,Arizona State University,658700,94300,0.59,25240.0,Technology
+869,110,Colorado State University,657900,85100,0.64,24600.0,Technology
+870,112,Iowa State University,657700,75300,0.68,26360.0,Technology
+871,113,Missouri University of Science and Technology,656000,87000,0.63,26400.0,Technology
+872,115,University of Colorado - Boulder,653300,109700,0.7,32920.0,Technology
+873,116,Florida International University,652400,90600,0.52,20960.0,Technology
+874,118,Old Dominion University,651100,81900,0.51,27560.0,Technology
+875,121,Louisiana State University and Agricultural & Mechanical College,650300,82700,0.69,24640.0,Technology
+876,125,CUNY - Bernard M Baruch College,649600,103400,0.67,19960.0,Technology
+877,128,Wichita State University,647200,65800,0.46,21920.0,Technology
+878,129,Georgia Southern University,646700,86300,0.5,23800.0,Technology
+879,132,University of Alabama - Huntsville Campus,644700,88300,0.48,25160.0,Technology
+880,134,Michigan Technological University,641700,101300,0.65,29240.0,Technology
+881,135,Southeast Missouri State University,639900,73100,0.49,24520.0,Technology
+882,136,San Diego State University,637900,95100,0.66,23200.0,Technology
+883,138,Pennsylvania State University,636900,126100,0.85,35080.0,Technology
+884,139,Truman State University,636600,76400,0.72,23520.0,Technology
+885,139,Bentley University,636600,216400,0.87,27520.0,Technology
+886,141,Seattle University,636500,196500,0.77,29200.0,Technology
+887,143,Clemson University,634600,108400,0.83,51600.0,Technology
+888,147,University of Arizona,628300,94700,0.61,24880.0,Technology
+889,148,University of New Mexico,627500,75500,0.48,21200.0,Technology
+890,149,University of Texas at Arlington,626400,86600,0.4,23840.0,Technology
+891,151,University of Missouri - Columbia,624500,88500,0.7,27280.0,Technology
+892,152,University of Nevada - Las Vegas,623700,89300,0.43,22400.0,Technology
+893,152,Southern Methodist University,623700,229300,0.79,31800.0,Technology
+894,154,University of North Carolina at Charlotte,619900,73100,0.54,24080.0,Technology
+895,156,University of Georgia,619100,83900,0.83,23840.0,Technology
+896,158,University of Delaware,616600,96400,0.8,31320.0,Technology
+897,160,University of Idaho,615900,77100,0.54,22480.0,Technology
+898,162,Oregon State University,614100,88900,0.61,24880.0,Technology
+899,165,California State University - Fullerton,613500,89500,0.53,21800.0,Technology
+900,167,"Miami University - Oxford, OH",612800,120200,0.81,29280.0,Technology
+901,168,University of Pittsburgh - Main Campus,612200,120800,0.8,36640.0,Technology
+902,169,Auburn University,610400,92600,0.68,28680.0,Technology
+903,171,California State University - Northridge,608600,94400,0.46,19440.0,Technology
+904,174,Troy University,604200,68800,0.35,28440.0,Technology
+905,178,Weber State University,600900,72100,0.35,20800.0,Technology
+906,179,Missouri State University,599600,73400,0.53,24400.0,Technology
+907,180,University of Missouri - St. Louis Campus,599200,103800,0.46,22280.0,Technology
+908,182,Oklahoma State University,598500,84500,0.6,23600.0,Technology
+909,184,University of North Texas,596600,76400,0.5,23080.0,Technology
+910,187,University of North Carolina at Chapel Hill,594300,88700,0.9,21400.0,Technology
+911,194,University of Illinois at Chicago,590300,112700,0.57,26360.0,Technology
+912,195,George Washington University,589800,233200,0.81,29720.0,Technology
+913,198,DePaul University,587000,186000,0.7,27520.0,Technology
+914,199,University of Kansas,586800,86200,0.62,26680.0,Technology
+915,200,Utah State University - Main Campus,586400,66600,0.51,22320.0,Technology
+916,201,Drexel University,583300,219700,0.7,45200.0,Technology
+917,203,Towson University,583200,89800,0.65,26800.0,Technology
+918,204,University of Oklahoma,583100,89900,0.66,28840.0,Technology
+919,206,Michigan State University,579400,93600,0.77,27800.0,Technology
+920,207,University of New Hampshire,577600,115500,0.79,35760.0,Technology
+921,208,Western Washington University,577500,85500,0.69,23800.0,Technology
+922,209,Wayland Baptist University,576700,86300,0.33,24280.0,Technology
+923,212,California State University - Long Beach,574100,88900,0.6,21480.0,Technology
+924,215,Rochester Institute of Technology,572000,181000,0.64,37120.0,Technology
+925,217,Mississippi State University,571300,81700,0.61,27160.0,Technology
+926,219,Boston University,570800,232200,0.84,40800.0,Technology
+927,220,Kennesaw State University,570500,92500,0.43,22240.0,Technology
+928,221,University of Rhode Island,569900,103100,0.63,25520.0,Technology
+929,221,Ohio State University,569900,103100,0.83,28520.0,Technology
+930,223,University of Iowa,569000,84000,0.7,28040.0,Technology
+931,225,Wright State University - Main Campus,568800,94200,0.41,28920.0,Technology
+932,230,University of Florida,566800,76200,0.87,22720.0,Technology
+933,232,University of Hawaii at Manoa,565300,87700,0.57,25920.0,Technology
+934,234,University of Cincinnati,564300,108700,0.58,27480.0,Technology
+935,235,University of Alabama - Main Campus,563700,99300,0.67,37560.0,Technology
+936,238,Florida State University,561400,81600,0.77,27400.0,Technology
+937,239,Montclair State University,559000,104000,0.63,32720.0,Technology
+938,240,Georgia State University,558300,94700,0.53,24200.0,Technology
+939,242,University of Central Florida,553600,79400,0.67,22600.0,Technology
+940,245,"Regis University - Denver, CO",550300,182700,0.58,26840.0,Technology
+941,250,Kent State University,545800,97200,0.52,29960.0,Technology
+942,252,University of North Florida,545100,77900,0.5,24120.0,Technology
+943,253,Youngstown State University,543000,80000,0.33,26000.0,Technology
+944,255,University of Vermont,541800,111200,0.76,27000.0,Technology
+945,256,University of South Florida - Main Campus,541500,81500,0.63,28640.0,Technology
+946,259,University of Arkansas - Main Campus,539400,83600,0.6,25760.0,Technology
+947,260,University of South Carolina - Main Campus,539100,93900,0.73,28000.0,Technology
+948,264,Ohio University - Main Campus,537200,95800,0.67,31720.0,Technology
+949,267,Temple University,535000,118000,0.66,33760.0,Technology
+950,269,University of Wyoming,533500,69500,0.54,25680.0,Technology
+951,270,University of Minnesota - Duluth Campus,532400,90600,0.59,29120.0,Technology
+952,274,Saint Cloud State University,530100,72900,0.48,29680.0,Technology
+953,275,University of Nebraska - Lincoln,529600,83400,0.67,23720.0,Technology
+954,280,Illinois State University,522200,100800,0.72,29200.0,Technology
+955,282,University of West Florida,519900,73100,0.42,23240.0,Technology
+956,283,"St. John's University - Queens, NY",516800,216200,0.56,30960.0,Technology
+957,287,Indiana University-Purdue University - Indianapolis,510600,92400,0.42,25440.0,Technology
+958,291,Montana State University - Main Campus,507500,75500,0.49,26120.0,Technology
+959,293,Saint Leo University,505200,127800,0.46,28960.0,Technology
+960,295,Minnesota State University - Mankato Campus,504200,68800,0.49,30240.0,Technology
+961,296,Cleveland State University,503700,99300,0.32,25000.0,Technology
+962,298,Indiana University,503000,90000,0.77,30520.0,Technology
+963,305,Sam Houston State University,498900,74100,0.51,25800.0,Technology
+964,306,University of Texas at El Paso,498800,84200,0.39,18120.0,Technology
+965,309,"Oakland University - Rochester Hills, MI",497500,85500,0.43,23200.0,Technology
+966,311,Central Washington University,497200,85900,0.51,23920.0,Technology
+967,318,North Dakota State University,488300,74700,0.53,33080.0,Technology
+968,319,University at Buffalo,486100,86900,0.72,32320.0,Technology
+969,320,Appalachian State University,484700,68300,0.69,22400.0,Technology
+970,321,Northern Illinois University,484100,108900,0.51,31640.0,Technology
+971,322,Baylor University,481600,191400,0.75,50400.0,Technology
+972,323,Marquette University,479500,183500,0.78,34120.0,Technology
+973,328,Eastern Michigan University,473400,79600,0.38,27160.0,Technology
+974,329,University of Oregon,472400,90600,0.67,28480.0,Technology
+975,329,Portland State University,472400,90600,0.42,24320.0,Technology
+976,333,University of Akron - Main Campus,471400,91600,0.42,27280.0,Technology
+977,334,SUNY - Albany,468200,84800,0.66,25960.0,Technology
+978,336,University of Memphis,464300,88700,0.43,22440.0,Technology
+979,337,Radford University,463500,79500,0.59,29560.0,Technology
+980,339,"Bowling Green State University - Bowling Green, OH",461900,91100,0.54,28120.0,Technology
+981,340,Ferris State University,455800,87200,0.43,29600.0,Technology
+982,341,Texas State University - San Marcos Campus,455600,77400,0.57,25600.0,Technology
+983,345,Northern Kentucky University,450300,72700,0.38,23560.0,Technology
+984,348,East Carolina University,446300,76700,0.56,27800.0,Technology
+985,349,University of Louisville,445700,87300,0.53,24240.0,Technology
+986,351,University of Tennessee,445200,97800,0.68,24560.0,Technology
+987,353,Chapman University,444800,228200,0.76,27360.0,Technology
+988,354,"Pace University - New York, NY",443600,209400,0.51,33320.0,Technology
+989,359,University of Kentucky,433100,89900,0.62,29360.0,Technology
+990,362,Southern Illinois University,427200,95800,0.43,29640.0,Technology
+991,367,Tennessee Technological University,419400,83600,0.51,19960.0,Technology
+992,368,"Loyola University - Chicago, IL",418500,194500,0.71,32080.0,Technology
+993,369,Ball State University,418400,84600,0.59,27760.0,Technology
+994,370,Middle Tennessee State University,417800,85200,0.46,22160.0,Technology
+995,372,Western Michigan University,414600,88400,0.55,31240.0,Technology
+996,374,East Tennessee State University,412600,90400,0.41,22440.0,Technology
+997,375,Tulane University,412500,230500,0.76,34240.0,Technology
+998,377,University of Toledo,410500,92500,0.45,26240.0,Technology
+999,378,California State University - Fresno,409700,83300,0.49,19880.0,Technology
+1000,380,Bradley University,405700,157400,0.76,25040.0,Technology
+1001,381,University of Miami,401300,231700,0.82,29440.0,Technology
+1002,386,University of South Alabama,391300,71700,0.33,31360.0,Technology
+1003,386,Eastern Illinois University,391300,91700,0.6,37560.0,Technology
+1004,388,University of Louisiana,388400,64600,0.45,19880.0,Technology
+1005,389,West Chester University,386300,96700,0.69,32560.0,Technology
+1006,394,North Carolina A&T State University,372800,60200,0.43,29680.0,Technology
+1007,395,Western Kentucky University,371000,72000,0.44,25720.0,Technology
+1008,396,High Point University,369300,163700,0.62,37560.0,Technology
+1009,406,"Columbia College - Chicago, IL",346300,156700,0.41,31680.0,Technology
+1010,410,University of Central Missouri,300900,72100,0.54,25720.0,Technology
+1011,411,Central Michigan University,278800,84200,0.59,26640.0,Technology
+1012,414,University of Central Arkansas,219600,73400,0.42,23400.0,Technology
+1013,415,Ithaca College,203900,209100,0.76,23520.0,Technology

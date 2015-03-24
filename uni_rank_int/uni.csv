@@ -1,0 +1,250 @@
+,Name,Rank,True_Rank,Score,Location,Tuition,Total_Enrollment,Acceptance_Rate,Retention_Rate,Graduation_Rate,X,Ranking_Value,Return_Value,Total_Cost,Duration_Value,Loan
+1,American University - Washington D.C.,70,71,52 out of 100.,"Washington, DC","$41,833","12,819",0.43,0.9,0.8,286,421,295100,217900,4 Years,33680
+2,Andrews University,163,168,29 out of 100.,"Berrien Springs, MI","$26,262","3,516",0.39,0.79,0.6,612,935,140200,132800,5 Years,29760
+3,Arizona State University,124,129,39 out of 100.,"Tempe, AZ","in-state: $9,811, out-of-state: $23,312","48,739",0.8,0.83,0.59,159,214,398700,94300,4 Years,25240
+4,Ashland University,198,RNP,U.S. News calculated a numerical rank but does not publish it.,"Ashland, OH","$19,852","5,979",0.72,0.72,0.56,792,1215,-81400,166400,4 Years,35240
+5,Auburn University,98,103,45 out of 100.,"Auburn University, AL","in-state: $10,200, out-of-state: $27,384","24,864",0.83,0.89,0.68,143,192,410400,92600,5 Years,28680
+6,Ball State University,169,173,28 out of 100.,"Muncie, IN","in-state: $9,344, out-of-state: $24,610","20,503",0.61,0.79,0.6,539,823,168400,84600,5 Years,27760
+7,Barry University,199,RNP,U.S. News calculated a numerical rank but does not publish it.,"Miami Shores, FL","$28,160","9,030",0.47,0.6,0.37,406,610,234100,168900,5 Years,29600
+8,Baylor University,71,71,52 out of 100.,"Waco, TX","$38,290","15,616",0.58,0.86,0.75,380,564,251600,191400,4 Years,50400
+9,Biola University,156,161,31 out of 100.,"La Mirada, CA","$33,322","6,323",0.75,0.86,0.69,595,909,145300,177700,4 Years,42000
+10,Boston College,30,31,69 out of 100.,"Chestnut Hill, MA","$47,436","13,525",0.32,0.95,0.91,100,130,472300,230700,4 Years,18640
+11,Boston University,41,42,62 out of 100.,"Boston, MA","$46,664","32,411",0.37,0.92,0.84,173,241,380800,232200,4 Years,40800
+12,Bowie State University,201,RNP,U.S. News calculated a numerical rank but does not publish it.,"Bowie, MD","in-state: $6,971, out-of-state: $17,538","5,561",0.52,0.72,0.38,492,745,191400,77700,5 Years,26640
+13,"Bowling Green State University - Bowling Green, OH",170,173,28 out of 100.,"Bowling Green, OH","in-state: $10,726, out-of-state: $18,034","16,958",0.73,0.72,0.54,473,716,201900,91100,5 Years,28120
+14,Brandeis University,34,35,66 out of 100.,"Waltham, MA","$47,833","5,825",0.37,0.93,0.9,299,439,290600,230500,4 Years,29360
+15,Brigham Young University,61,62,56 out of 100.,"Provo, UT","$5,000","31,123",0.49,0.87,0.77,33,42,615700,67300,5 Years,22200
+16,Brown University,15,16,84 out of 100.,"Providence, RI","$47,434","8,943",0.09,0.98,0.94,13,15,723900,229100,4 Years,24640
+17,California Institute of Technology,9,10,91 out of 100.,"Pasadena, CA","$43,362","2,181",0.11,0.97,0.93,1,2,901400,221600,4 Years,22160
+18,Cardinal Stritch University,202,RNP,U.S. News calculated a numerical rank but does not publish it.,"Milwaukee, WI","$26,570",,0.42,0.69,0.5,366,542,261000,152000,4 Years,25200
+19,Carnegie Mellon University,24,25,75 out of 100.,"Pittsburgh, PA","$48,786","12,991",0.26,0.95,0.88,20,25,688500,234500,4 Years,34960
+20,Case Western Reserve University,37,38,64 out of 100.,"Cleveland, OH","$43,158","10,325",0.42,0.93,0.8,47,58,583000,220000,4 Years,29800
+21,Catholic University of America,111,116,42 out of 100.,"Washington, DC","$39,726","6,725",0.6,0.82,0.69,222,318,334900,215200,4 Years,35600
+22,Central Michigan University,189,194,25 out of 100.,"Mount Pleasant, MI","in-state: $11,550, out-of-state: $23,670","26,902",0.63,0.77,0.59,460,696,208800,84200,5 Years,26640
+23,Clark Atlanta University,203,RNP,U.S. News calculated a numerical rank but does not publish it.,"Atlanta, GA","$21,334","3,458",0.57,0.64,0.39,663,1020,107500,135500,5 Years,37680
+24,"Clarkson University - Potsdam, NY",116,121,41 out of 100.,"Potsdam, NY","$42,530","3,726",0.64,0.87,0.75,35,45,609000,214000,4 Years,34760
+25,Clemson University,62,62,56 out of 100.,"Clemson, SC","in-state: $13,382, out-of-state: $30,816","21,303",0.57,0.91,0.82,97,127,474600,108400,4 Years,51600
+26,Cleveland State University,204,RNP,U.S. News calculated a numerical rank but does not publish it.,"Cleveland, OH","in-state: $9,473, out-of-state: $12,653","17,741",0.63,0.66,0.32,251,369,313700,99300,5 Years,25000
+27,Colorado School of Mines,84,88,48 out of 100.,"Golden, CO","in-state: $16,918, out-of-state: $33,598","5,608",0.36,0.9,0.7,3,4,831000,112000,5 Years,30480
+28,Colorado State University,117,121,41 out of 100.,"Fort Collins, CO","in-state: $9,897, out-of-state: $26,077","31,256",0.77,0.85,0.64,178,249,377900,85100,5 Years,24600
+29,Columbia University,3,4,95 out of 100.,"New York, NY","$51,008","23,606",0.07,0.99,0.96,43,54,591400,241600,4 Years,32720
+30,"Cornell University - Ithaca, NY",14,15,85 out of 100.,"Ithaca, NY","$47,286","21,593",0.16,0.97,0.93,38,49,600000,233000,4 Years,24840
+31,Dartmouth College,10,11,90 out of 100.,"Hanover, NH","$48,108","6,342",0.1,0.98,0.95,36,47,604600,238700,4 Years,21360
+32,DePaul University,118,121,41 out of 100.,"Chicago, IL","$35,071","24,414",0.6,0.86,0.7,204,287,357000,186000,4 Years,27520
+33,Drexel University,90,95,47 out of 100.,"Philadelphia, PA","$47,051","23,620",0.82,0.85,0.7,76,96,513300,219700,5 Years,45200
+34,Duke University,7,8,92 out of 100.,"Durham, NC","$47,488","15,465",0.12,0.97,0.94,31,40,619200,233800,4 Years,21760
+35,Duquesne University,112,116,42 out of 100.,"Pittsburgh, PA","$32,636","9,904",0.74,0.87,0.76,342,502,270600,167500,4 Years,37440
+36,East Carolina University,205,RNP,U.S. News calculated a numerical rank but does not publish it.,"Greenville, NC","in-state: $6,143, out-of-state: $21,340","26,887",0.73,0.8,0.57,503,761,186300,76700,5 Years,27800
+37,East Tennessee State University,206,RNP,U.S. News calculated a numerical rank but does not publish it.,"Johnson City, TN","in-state: $7,985, out-of-state: $17,917",,0.89,0.69,0.41,471,711,202600,90400,5 Years,22440
+38,Emory University,20,21,77 out of 100.,"Atlanta, GA","$45,008","14,513",0.27,0.95,0.91,150,202,405400,227600,4 Years,28920
+39,Florida Agricultural and Mechanical,207,RNP,U.S. News calculated a numerical rank but does not publish it.,"Tallahassee, FL","in-state: $5,785, out-of-state: $17,725","10,743",0.45,0.81,0.41,326,479,279100,73900,5 Years,26840
+40,Florida Atlantic University,208,RNP,U.S. News calculated a numerical rank but does not publish it.,"Boca Raton, FL","in-state: $6,039, out-of-state: $21,575","30,759",0.48,0.78,0.41,358,527,264200,78800,5 Years,23400
+41,Florida Institute of Technology,171,173,28 out of 100.,"Melbourne, FL","$37,990","5,644",0.61,0.79,0.54,55,66,559100,203900,4 Years,29520
+42,Florida International University,209,RNP,U.S. News calculated a numerical rank but does not publish it.,"Miami, FL","in-state: $6,496, out-of-state: $18,895","47,736",0.43,0.83,0.52,272,400,302400,90600,5 Years,20960
+43,Florida State University,91,95,47 out of 100.,"Tallahassee, FL","in-state: $6,507, out-of-state: $21,673","40,909",0.57,0.92,0.77,274,405,301400,81600,4 Years,27400
+44,Fordham University,57,58,57 out of 100.,"New York, NY","$43,577","15,097",0.47,0.89,0.8,109,146,453300,239700,4 Years,29320
+45,George Mason University,133,138,37 out of 100.,"Fairfax, VA","in-state: $10,382, out-of-state: $29,960","33,917",0.62,0.87,0.67,70,86,530600,92400,4 Years,28880
+46,George Washington University,53,54,58 out of 100.,"Washington, DC","$48,760","25,264",0.34,0.93,0.81,157,211,399800,233200,4 Years,29720
+47,Georgetown University - Washington D.C.,21,21,77 out of 100.,"Washington, DC","$46,744","17,849",0.17,0.96,0.92,87,116,486300,236700,4 Years,24040
+48,Georgia Institute of Technology,35,35,66 out of 100.,"Atlanta, GA","in-state: $11,394, out-of-state: $30,698","21,471",0.41,0.95,0.82,7,8,796300,86700,5 Years,30600
+49,Georgia Southern University,210,RNP,U.S. News calculated a numerical rank but does not publish it.,"Statesboro, GA","in-state: $7,190, out-of-state: $20,086","20,517",0.57,0.79,0.5,387,574,246700,86300,5 Years,23800
+50,Georgia State University,211,RNP,U.S. News calculated a numerical rank but does not publish it.,"Atlanta, GA","in-state: $10,240, out-of-state: $28,450","32,168",0.54,0.83,0.53,349,512,268300,94700,5 Years,24200
+51,Harvard University,1,2,99 out of 100.,"Cambridge, MA","$43,938","19,882",0.06,0.97,0.97,28,34,646100,227000,4 Years,25080
+52,Hofstra University,130,135,38 out of 100.,"Hempstead, NY","$38,900","10,928",0.59,0.78,0.62,146,195,409200,203800,4 Years,40400
+53,Howard University,140,145,35 out of 100.,"Washington, DC","$23,970","10,297",0.57,0.82,0.61,294,433,291900,151100,4 Years,34040
+54,Idaho State University,269,Unranked,Unranked.,"Pocatello, ID","in-state: $6,344, out-of-state: $18,676",,0.97,,29%,197,277,364700,78300,6 Years,23760
+55,Illinois Institute of Technology,113,116,42 out of 100.,"Chicago, IL","$41,335","7,850",0.57,0.93,0.63,51,63,561200,201800,5 Years,29360
+56,Illinois State University,137,142,36 out of 100.,"Normal, IL","in-state: $12,830, out-of-state: $20,420","20,272",0.69,0.84,0.72,378,562,252200,100800,4 Years,29200
+57,Immaculata University,177,181,27 out of 100.,"Immaculata, PA","$30,740","3,675",0.82,0.82,0.48,404,605,236400,186600,4 Years,34360
+58,Indiana State University,212,RNP,U.S. News calculated a numerical rank but does not publish it.,"Terre Haute, IN","in-state: $8,416, out-of-state: $18,346","12,448",0.83,0.62,0.42,490,743,192500,80500,5 Years,27880
+59,Indiana University,76,76,50 out of 100.,"Bloomington, IN","in-state: $10,388, out-of-state: $33,241","46,817",0.72,0.89,0.77,270,397,303000,90000,4 Years,30520
+60,Indiana University of Pennsylvania,213,RNP,U.S. News calculated a numerical rank but does not publish it.,"Indiana, PA","in-state: $9,470, out-of-state: $19,700","14,728",0.91,0.75,0.51,451,683,212000,91000,4 Years,33040
+61,Indiana University-Purdue University - Indianapolis,190,194,25 out of 100.,"Indianapolis, IN","in-state: $8,909, out-of-state: $30,089","30,488",0.7,0.72,0.42,343,502,270600,92400,5 Years,25440
+62,Iowa State University,101,106,44 out of 100.,"Ames, IA","in-state: $7,731, out-of-state: $20,617","32,955",0.86,0.87,0.68,114,153,447700,75300,5 Years,26360
+63,Jackson State University,214,RNP,U.S. News calculated a numerical rank but does not publish it.,"Jackson, MS","in-state: $6,348, out-of-state: $15,552",,0.65,0.73,0.42,789,1212,-64600,77600,5 Years,29200
+64,Johns Hopkins University,11,12,89 out of 100.,"Baltimore, MD","$47,060","21,052",0.17,0.97,0.93,45,56,589700,233300,4 Years,24920
+65,Kansas State University,138,142,36 out of 100.,"Manhattan, KS","in-state: $9,034, out-of-state: $22,624","24,581",0.96,0.81,0.6,186,260,372400,80600,5 Years,24240
+66,Kent State University,191,194,25 out of 100.,"Kent, OH","in-state: $10,012, out-of-state: $17,972","28,998",0.83,0.77,0.51,574,868,155800,97200,5 Years,29960
+67,Lamar University,215,RNP,U.S. News calculated a numerical rank but does not publish it.,"Beaumont, TX","in-state: $9,361, out-of-state: $19,681","14,035",0.77,0.59,0.34,148,198,406900,86100,5 Years,24640
+68,Lehigh University,39,40,63 out of 100.,"Bethlehem, PA","$44,890","7,096",0.31,0.94,0.86,41,52,593800,219200,4 Years,32320
+69,Louisiana State University and Agricultural & Mechanical College,125,129,39 out of 100.,"Baton Rouge, LA","in-state: $8,750, out-of-state: $26,467","30,478",0.75,0.84,0.69,144,193,410300,82700,5 Years,24640
+70,Louisiana Tech University,196,201,24 out of 100.,"Ruston, LA","in-state: $8,052, out-of-state: $22,635","11,015",0.67,0.77,0.5,122,164,440200,69400,5 Years,19840
+71,"Loyola University - Chicago, IL",102,106,44 out of 100.,"Chicago, IL","$37,412","15,957",0.91,0.86,0.71,461,698,208500,194500,4 Years,32080
+72,Marquette University,77,76,50 out of 100.,"Milwaukee, WI","$35,930","11,782",0.58,0.89,0.78,241,350,319500,183500,4 Years,34120
+73,Maryville University of Saint Louis,151,156,32 out of 100.,"St Louis, MO","$25,884","5,033",0.76,0.85,0.67,596,909,145300,157700,4 Years,44000
+74,Massachusetts Institute of Technology,6,7,93 out of 100.,"Cambridge, MA","$45,016","11,301",0.08,0.98,0.93,6,7,798500,224500,4 Years,33680
+75,"Miami University - Oxford, OH",78,76,50 out of 100.,"Oxford, OH","in-state: $14,287, out-of-state: $30,394","17,901",0.67,0.89,0.81,140,189,412800,120200,4 Years,29280
+76,Michigan State University,80,85,49 out of 100.,"East Lansing, MI","in-state: $13,200, out-of-state: $34,980","49,343",0.69,0.91,0.78,145,194,409400,93600,4 Years,27800
+77,Michigan Technological University,114,116,42 out of 100.,"Houghton, MI","in-state: $14,040, out-of-state: $29,520","6,979",0.78,0.82,0.66,24,30,661700,101300,5 Years,29240
+78,Middle Tennessee State University,217,RNP,U.S. News calculated a numerical rank but does not publish it.,"Murfreesboro, TN","in-state: $7,370, out-of-state: $24,434","23,881",0.7,0.71,0.47,590,901,147800,85200,5 Years,22160
+79,Mississippi State University,152,156,32 out of 100.,"Mississippi State, MS","in-state: $6,772, out-of-state: $16,960","20,161",0.71,0.81,0.59,321,472,281300,81700,5 Years,27160
+80,Missouri University of Science and Technology,134,138,37 out of 100.,"Rolla, MO","in-state: $9,537, out-of-state: $25,404","8,130",0.82,0.84,0.63,12,14,726000,87000,5 Years,26400
+81,Montana State University - Main Campus,218,RNP,U.S. News calculated a numerical rank but does not publish it.,"Bozeman, MT","in-state: $6,894, out-of-state: $21,296","15,294",0.85,0.75,0.49,220,316,337500,75500,5 Years,26120
+82,Morgan State University,219,RNP,U.S. News calculated a numerical rank but does not publish it.,"Baltimore, MD","in-state: $7,378, out-of-state: $16,862","7,546",0.56,0.72,0.35,395,593,239200,83800,5 Years,31080
+83,New Jersey Institute of Technology,145,149,34 out of 100.,"Newark, NJ","in-state: $15,602, out-of-state: $28,274","10,130",0.66,0.83,0.58,21,26,680800,122200,5 Years,32360
+84,New Mexico State University - Main Campus,221,RNP,U.S. News calculated a numerical rank but does not publish it.,"Las Cruces, NM","in-state: $6,573, out-of-state: $20,658","16,765",0.852,0.72,0.43,137,186,417800,75200,5 Years,19960
+85,New York University,31,32,68 out of 100.,"New York, NY","$46,170","44,599",0.32,0.92,0.84,128,174,433700,239300,4 Years,34400
+86,North Carolina A&T State University,222,RNP,U.S. News calculated a numerical rank but does not publish it.,"Greensboro, NC","in-state: $5,422, out-of-state: $16,503","10,561",0.565,0.73,0.42,360,529,264000,60200,5 Years,29680
+87,North Carolina State University,92,95,47 out of 100.,"Raleigh, NC","in-state: $8,296, out-of-state: $23,551","34,009",0.47,0.92,0.74,99,129,472400,80600,5 Years,23360
+88,North Dakota State University,178,181,27 out of 100.,"Fargo, ND","in-state: $7,660, out-of-state: $18,242","14,629",0.84,0.78,0.53,135,184,418300,74700,5 Years,33080
+89,Northeastern University,42,42,62 out of 100.,"Boston, MA","$43,440","20,034",0.32,0.95,0.83,105,139,462700,220300,5 Years,25640
+90,Northern Arizona University,223,RNP,U.S. News calculated a numerical rank but does not publish it.,"Flagstaff, AZ","in-state: $9,990, out-of-state: $22,510","26,606",0.914,0.73,0.49,427,644,224100,88900,4 Years,25280
+91,Northern Illinois University,192,194,25 out of 100.,"DeKalb, IL","in-state: $13,636, out-of-state: $22,914","21,138",0.52,0.7,0.51,208,292,354100,108900,5 Years,31640
+92,Northwestern University,12,13,88 out of 100.,"Evanston, IL","$47,251","20,997",0.14,0.97,0.94,98,128,473700,239300,4 Years,23200
+93,Nova Southeastern University,224,RNP,U.S. News calculated a numerical rank but does not publish it.,"Ft. Lauderdale, FL","$26,700","25,670",0.575,0.71,0.41,489,741,193000,160000,4 Years,34880
+94,"Oakland University - Rochester Hills, MI",225,RNP,U.S. News calculated a numerical rank but does not publish it.,"Rochester, MI","in-state: $11,460, out-of-state: $24,735","20,169",0.66,0.74,0.43,191,271,367500,85500,5 Years,23200
+95,Ohio State University,54,54,58 out of 100.,"Columbus, OH","in-state: $10,037, out-of-state: $26,537","57,466",0.56,0.93,0.83,202,284,359900,103100,4 Years,28520
+96,Ohio University - Main Campus,126,129,39 out of 100.,"Athens, OH","in-state: $10,536, out-of-state: $19,500","28,786",0.73,0.8,0.67,231,336,327200,95800,4 Years,31720
+97,Oklahoma State University,141,145,35 out of 100.,"Stillwater, OK","in-state: $7,442, out-of-state: $20,027","25,939",0.76,0.79,0.61,212,301,348500,84500,5 Years,23600
+98,Old Dominion University,226,RNP,U.S. News calculated a numerical rank but does not publish it.,"Norfolk, VA","in-state: $9,280, out-of-state: $25,030","24,828",0.768,0.8,0.51,297,437,291100,81900,5 Years,27560
+99,Oregon State University,135,138,37 out of 100.,"Corvallis, OR","in-state: $8,276, out-of-state: $23,540","27,925",0.79,0.83,0.61,170,235,384100,88900,5 Years,24880
+100,"Pace University - New York, NY",172,173,28 out of 100.,"New York, NY","$39,747","12,624",0.81,0.77,0.51,133,181,423600,209400,4 Years,33320
+101,Pennsylvania State University,47,48,60 out of 100.,"University Park, PA","in-state: $17,502, out-of-state: $30,452","46,615",0.56,0.92,0.85,78,98,506500,116500,4 Years,33240
+102,Pepperdine University,55,54,58 out of 100.,"Malibu, CA","$46,692","7,315",0.37,0.91,0.8,237,344,324600,228400,4 Years,28920
+103,Portland State University,228,RNP,U.S. News calculated a numerical rank but does not publish it.,"Portland, OR","in-state: $7,878, out-of-state: $23,088",,0.83,0.72,0.39,363,535,262400,90600,5 Years,24320
+104,Princeton University,0,1,100 out of 100.,"Princeton, NJ","$41,820","8,014",0.07,0.98,0.97,8,9,795700,217300,4 Years,17040
+105,Purdue University - Main Campus,63,62,56 out of 100.,"West Lafayette, IN","in-state: $10,002, out-of-state: $28,804","38,788",0.6,0.9,0.71,42,53,591700,91300,5 Years,29840
+106,Rensselaer Polytechnic Institute,43,42,62 out of 100.,"Troy, NY","$47,908","6,995",0.41,0.93,0.85,22,27,680500,232500,4 Years,40800
+107,Rice University,18,19,82 out of 100.,"Houston, TX","$40,566","6,628",0.17,0.97,0.91,16,19,708400,204600,4 Years,24920
+108,Rutgers University - New Brunswick Campus,69,70,53 out of 100.,"Piscataway, NJ","in-state: $13,813, out-of-state: $28,591","48,036",0.6,0.92,0.79,75,91,518800,114200,4 Years,32240
+109,Rutgers University - Newark Campus,121,126,40 out of 100.,"Newark, NJ","in-state: $13,297, out-of-state: $28,075","11,212",0.54,0.85,0.67,32,41,617900,115100,5 Years,31720
+110,Saint Louis University,94,99,46 out of 100.,"St. Louis, MO","$37,966","13,505",0.64,0.86,0.7,336,490,274000,209000,4 Years,31000
+111,Sam Houston State University,230,RNP,U.S. News calculated a numerical rank but does not publish it.,"Huntsville, TX","in-state: $8,932, out-of-state: $19,792","19,210",0.739,0.75,0.51,279,413,298900,74100,5 Years,25800
+112,San Diego State University,146,149,34 out of 100.,"San Diego, CA","in-state: $6,866, out-of-state: $18,026","32,759",0.37,0.88,0.67,219,315,337900,95100,5 Years,23200
+113,"Seton Hall University - South Orange, NJ",122,126,40 out of 100.,"South Orange, NJ","$36,926","9,903",0.79,0.82,0.64,103,134,467000,196000,4 Years,44800
+114,South Carolina State University,231,RNP,U.S. News calculated a numerical rank but does not publish it.,"Orangeburg, SC","in-state: $9,776, out-of-state: $18,910","3,463",0.92,0.63,0.36,761,1170,15900,100100,5 Years,31360
+115,South Dakota State University,179,181,27 out of 100.,"Brookings, SD","in-state: $7,713, out-of-state: $9,795","12,554",0.92,0.75,0.57,301,441,290100,72900,5 Years,28280
+116,Southern Illinois University,184,189,26 out of 100.,"Carbondale, IL","in-state: $12,251, out-of-state: $24,874","17,964",0.79,0.65,0.44,261,385,307200,95800,5 Years,29640
+117,Southern Methodist University,58,58,57 out of 100.,"Dallas, TX","$45,940","10,929",0.51,0.9,0.79,182,256,373700,229300,4 Years,31800
+118,"St. John Fisher College - Rochester, NY",139,142,36 out of 100.,"Rochester, NY","$29,550","3,987",0.63,0.83,0.73,736,1131,46100,157200,4 Years,33040
+119,"St. John's University - Queens, NY",142,145,35 out of 100.,"Queens, NY","$38,680","20,729",0.53,0.78,0.55,309,452,286800,216200,4 Years,30960
+120,Stanford University,4,4,95 out of 100.,"Stanford, CA","$44,757","18,136",0.06,0.98,0.96,5,6,809700,233300,4 Years,29880
+121,Stevens Institute of Technology,79,76,50 out of 100.,"Hoboken, NJ","$44,490","5,784",0.38,0.94,0.79,2,3,841000,232000,5 Years,44000
+122,Stony Brook University,85,88,48 out of 100.,"Stony Brook, NY","in-state: $8,430, out-of-state: $21,850","24,143",0.4,0.9,0.66,147,196,408900,83200,4 Years,24880
+123,SUNY - Albany,123,126,40 out of 100.,"Albany, NY","in-state: $8,527, out-of-state: $20,167","17,338",0.56,0.84,0.66,230,333,328200,84800,4 Years,25960
+124,SUNY - Binghamton University,83,88,48 out of 100.,"Binghamton, NY","in-state: $8,619, out-of-state: $20,259","16,077",0.42,0.91,0.81,71,87,526900,86100,4 Years,27040
+125,SUNY - College at Buffalo,99,103,45 out of 100.,"Buffalo, NY","in-state: $8,426, out-of-state: $20,366","29,850",0.57,0.88,0.72,716,1103,65700,81300,5 Years,25720
+126,Syracuse University,59,58,57 out of 100.,"Syracuse, NY","$41,886","21,267",0.5,0.92,0.81,266,389,304200,218800,4 Years,34720
+127,Temple University,119,121,41 out of 100.,"Philadelphia, PA","in-state: $14,770, out-of-state: $25,450","37,270",0.64,0.88,0.66,236,342,325000,118000,5 Years,33760
+128,Tennessee State University,232,RNP,U.S. News calculated a numerical rank but does not publish it.,"Nashville, TN","in-state: $6,776, out-of-state: $20,132","8,816",0.529,0.62,0.29,466,704,205600,67400,5 Years,29640
+129,Texas A&M University - Commerce Campus,233,RNP,U.S. News calculated a numerical rank but does not publish it.,"Commerce, TX","in-state: $7,096, out-of-state: $17,956","11,068",0.682,0.68,0.45,514,779,180500,72500,5 Years,24760
+130,Texas A&M University - Corpus Christi Campus,234,RNP,U.S. News calculated a numerical rank but does not publish it.,"Corpus Christi, TX","in-state: $7,778, out-of-state: $18,398","10,913",0.87,0.61,0.35,376,559,253400,78600,5 Years,25680
+131,Texas A&M University - Main Campus,67,68,55 out of 100.,"College Station, TX","in-state: $9,180, out-of-state: $26,356","57,795",0.69,0.92,0.81,30,39,619800,83200,4 Years,24480
+132,Texas Southern University,236,RNP,U.S. News calculated a numerical rank but does not publish it.,"Houston, TX","in-state: $7,946, out-of-state: $18,566","8,703",0.45,0.6,0.16,586,893,149900,93100,5 Years,28840
+133,Texas Tech University,153,156,32 out of 100.,"Lubbock, TX","in-state: $9,308, out-of-state: $20,168","33,111",0.66,0.82,0.59,130,178,429700,83300,5 Years,30800
+134,Texas Woman's University,237,RNP,U.S. News calculated a numerical rank but does not publish it.,"Denton, TX","in-state: $7,560, out-of-state: $18,420","15,129",0.86,0.69,0.42,284,419,296200,67700,5 Years,22280
+135,The College of William and Mary,32,33,67 out of 100.,"Williamsburg, VA","in-state: $17,656, out-of-state: $39,360","8,376",0.33,0.96,0.9,91,120,480000,103000,4 Years,26320
+136,The New School,131,135,38 out of 100.,"New York, NY","$41,836","10,401",0.67,0.82,0.65,495,751,190400,232600,4 Years,35600
+137,Trevecca Nazarene University,238,RNP,U.S. News calculated a numerical rank but does not publish it.,"Nashville, TN","$23,126","2,406",0.684,0.74,0.47,617,941,137500,126200,4 Years,21160
+138,Trinity University,239,RNP,U.S. News calculated a numerical rank but does not publish it.,"Deerfield, IL","$27,360","2,687",0.939,0.71,0.45,320,472,281300,181700,4 Years,40400
+139,Tufts University,26,27,73 out of 100.,"Medford, MA","$48,643","10,872",0.19,0.97,0.92,96,126,474700,231400,4 Years,25360
+140,Tulane University,56,54,58 out of 100.,"New Orleans, LA","$48,305","13,462",0.26,0.9,0.76,317,468,282500,230500,4 Years,34240
+141,University of Akron - Main Campus,240,RNP,U.S. News calculated a numerical rank but does not publish it.,"Akron, OH","in-state: $10,320, out-of-state: $18,851","24,928",0.965,0.69,0.4,275,405,301400,91600,5 Years,27280
+142,University of Alabama - Birmingham Campus,147,149,34 out of 100.,"Birmingham, AL","in-state: $9,280, out-of-state: $21,220","18,568",0.87,0.8,0.53,440,668,217300,85700,5 Years,27200
+143,University of Alabama - Huntsville Campus,182,181,27 out of 100.,"Huntsville, AL","in-state: $9,158, out-of-state: $21,232","7,376",0.81,0.79,0.48,50,62,564700,88300,5 Years,25160
+144,University of Alaska - Fairbanks Campus,241,RNP,U.S. News calculated a numerical rank but does not publish it.,"Fairbanks, AK","in-state: $6,752, out-of-state: $20,072","9,256",0.799,0.76,0.38,86,115,486700,66300,5 Years,21360
+145,University of Arizona,120,121,41 out of 100.,"Tucson, AZ","in-state: $10,581, out-of-state: $28,379","40,621",0.78,0.79,0.61,167,230,388300,94700,4 Years,24880
+146,University of Arkansas - Little Rock Campus,242,RNP,U.S. News calculated a numerical rank but does not publish it.,"Little Rock, AR","in-state: $7,909, out-of-state: $18,979","12,377",0.687,0.7,0.24,564,855,159000,84000,5 Years,18920
+147,University of Arkansas - Main Campus,132,135,38 out of 100.,"Fayetteville, AR","in-state: $8,210, out-of-state: $20,300","25,341",0.59,0.82,0.6,259,382,309400,83600,4 Years,25760
+148,University of California - Berkeley,19,20,79 out of 100.,"Berkeley, CA","in-state: $13,844, out-of-state: $25,064","36,204",0.18,0.97,0.91,17,20,703100,129900,4 Years,23360
+149,University of California - Davis,38,38,64 out of 100.,"Davis, CA","in-state: $13,896, out-of-state: $36,774","33,307",0.41,0.93,0.84,85,114,487300,125700,4 Years,22280
+150,University of California - Irvine,44,42,62 out of 100.,"Irvine, CA","in-state: $14,757, out-of-state: $37,635","28,895",0.41,0.94,0.86,69,84,535000,118000,4 Years,21440
+151,University of California - Los Angeles,22,23,76 out of 100.,"Los Angeles, CA","in-state: $12,702, out-of-state: $35,580","42,190",0.2,0.97,0.9,94,124,477500,125500,4 Years,24840
+152,University of California - Riverside,108,113,43 out of 100.,"Riverside, CA","in-state: $13,408, out-of-state: $36,286","21,285",0.6,0.88,0.69,201,283,360500,122600,4 Years,20400
+153,University of California - San Diego,36,37,65 out of 100.,"La Jolla, CA","in-state: $13,302, out-of-state: $36,180","28,731",0.37,0.95,0.86,29,37,625000,118000,4 Years,22440
+154,University of California - Santa Barbara,40,40,63 out of 100.,"Santa Barbara, CA","in-state: $13,746, out-of-state: $36,624","22,225",0.4,0.92,0.86,118,158,444900,128200,4 Years,24120
+155,University of California - Santa Cruz,81,85,49 out of 100.,"Santa Cruz, CA","in-state: $13,398, out-of-state: $36,276","17,203",0.52,0.9,0.76,316,467,282700,130300,4 Years,22840
+156,University of Central Florida,173,173,28 out of 100.,"Orlando, FL","in-state: $6,368, out-of-state: $22,467","59,740",0.49,0.87,0.67,267,393,303600,79400,5 Years,22600
+157,University of Chicago,5,4,95 out of 100.,"Chicago, IL","$48,253","12,539",0.09,0.99,0.93,106,142,458000,245000,4 Years,24760
+158,University of Cincinnati,127,129,39 out of 100.,"Cincinnati, OH","in-state: $11,000, out-of-state: $26,334","32,857",0.73,0.85,0.64,119,159,444300,108700,5 Years,27480
+159,University of Colorado - Boulder,87,88,48 out of 100.,"Boulder, CO","in-state: $10,789, out-of-state: $33,151","31,702",0.88,0.85,0.7,153,206,403300,109700,4 Years,32920
+160,University of Colorado - Denver Campus,243,RNP,U.S. News calculated a numerical rank but does not publish it.,"Denver, CO","in-state: $9,625, out-of-state: $26,105","22,206",0.693,0.74,0.41,187,262,371000,92000,5 Years,21760
+161,University of Connecticut,60,58,57 out of 100.,"Storrs, CT","in-state: $12,700, out-of-state: $32,880","25,911",0.54,0.93,0.83,111,149,449700,103300,4 Years,29760
+162,University of Dayton,100,103,45 out of 100.,"Dayton, OH","$37,230","10,835",0.52,0.88,0.77,163,224,392000,181000,4 Years,40000
+163,University of Denver,88,88,48 out of 100.,"Denver, CO","$42,090","11,778",0.77,0.87,0.78,325,478,279200,213800,4 Years,31960
+164,University of Florida,48,48,60 out of 100.,"Gainesville, FL","in-state: $6,313, out-of-state: $28,591","49,878",0.47,0.96,0.87,107,143,456800,76200,4 Years,22720
+165,University of Georgia,64,62,56 out of 100.,"Athens, GA","in-state: $10,836, out-of-state: $29,046","34,536",0.55,0.94,0.83,228,330,329100,83900,4 Years,23840
+166,University of Hawaii at Manoa,164,168,29 out of 100.,"Honolulu, HI","in-state: $10,620, out-of-state: $29,412","20,006",0.8,0.78,0.57,423,640,225300,87700,5 Years,25920
+167,University of Houston,185,189,26 out of 100.,"Houston, TX","in-state: $10,518, out-of-state: $24,378","39,540",0.58,0.83,0.48,84,113,487700,85300,5 Years,24640
+168,University of Idaho,161,166,30 out of 100.,"Moscow, ID","in-state: $6,784, out-of-state: $20,314","11,834",0.65,0.79,0.54,180,254,375900,77100,5 Years,22480
+169,University of Illinois at Chicago,148,149,34 out of 100.,"Chicago, IL","in-state: $13,640, out-of-state: $26,030","27,589",0.71,0.8,0.57,166,227,390300,112700,5 Years,26360
+170,University of Illinois at Urbana-Champaign,45,42,62 out of 100.,"Champaign, IL","in-state: $15,602, out-of-state: $30,228","44,942",0.62,0.94,0.84,59,72,551200,111800,4 Years,26840
+171,University of Iowa,72,71,52 out of 100.,"Iowa City, IA","in-state: $8,079, out-of-state: $27,409","31,065",0.8,0.86,0.7,211,300,349000,84000,4 Years,28040
+172,University of Kansas,103,106,44 out of 100.,"Lawrence, KS","in-state: $10,448, out-of-state: $25,731","26,968",0.88,0.8,0.62,331,485,276800,86200,5 Years,26680
+173,University of Kentucky,128,129,39 out of 100.,"Lexington, KY","in-state: $10,616, out-of-state: $22,888","28,435",0.69,0.82,0.6,268,395,303100,89900,5 Years,29360
+174,University of La Verne,162,166,30 out of 100.,"La Verne, CA","$36,744","5,111",0.34,0.85,0.59,614,938,138600,194400,4 Years,27760
+175,University of Louisiana,244,RNP,U.S. News calculated a numerical rank but does not publish it.,"Lafayette, LA","in-state: $6,948, out-of-state: $19,348","16,646",0.593,0.74,0.45,478,725,198400,64600,5 Years,19880
+176,University of Louisville,157,161,31 out of 100.,"Louisville, KY","in-state: $10,432, out-of-state: $24,320","21,447",0.71,0.78,0.53,422,638,225700,87300,5 Years,24240
+177,University of Maine at Orono,174,173,28 out of 100.,"Orono, ME","in-state: $10,604, out-of-state: $28,484","11,247",0.83,0.79,0.56,368,545,260200,92000,4 Years,37240
+178,University of Maryland - College Park,65,62,56 out of 100.,"College Park, MD","in-state: $9,427, out-of-state: $29,720","37,272",0.47,0.95,0.84,53,64,561000,92000,4 Years,29000
+179,"University of Maryland, Baltimore County",149,149,34 out of 100.,"Baltimore, MD","in-state: $10,068, out-of-state: $21,642","13,908",0.63,0.86,0.65,112,151,448200,94800,5 Years,28120
+180,University of Massachusetts,154,156,32 out of 100.,"Lowell, MA","in-state: $12,447, out-of-state: $19,560","16,932",0.64,0.81,0.54,64,77,545400,97600,5 Years,28080
+181,University of Memphis,246,RNP,U.S. News calculated a numerical rank but does not publish it.,"Memphis, TN","in-state: $8,619, out-of-state: $13,275","21,478",0.732,0.77,0.44,485,737,194300,88700,5 Years,22440
+182,University of Miami,49,48,60 out of 100.,"Coral Gables, FL","$44,350","16,935",0.41,0.91,0.82,409,617,231300,231700,4 Years,29440
+183,University of Michigan - Ann Arbor,28,29,72 out of 100.,"Ann Arbor, MI","in-state: $13,977, out-of-state: $41,811","43,710",0.33,0.97,0.9,65,79,541500,101500,4 Years,28240
+184,University of Minnesota - Twin Cities,73,71,52 out of 100.,"Minneapolis, MN","in-state: $13,626, out-of-state: $20,876","51,526",0.44,0.9,0.75,88,117,485500,97500,4 Years,27920
+185,University of Mississippi,150,149,34 out of 100.,"University, MS","in-state: $7,096, out-of-state: $19,144","19,431",0.59,0.83,0.58,322,474,280000,83000,4 Years,30480
+186,University of Missouri - Columbia,95,99,46 out of 100.,"Columbia, MO","in-state: $9,433, out-of-state: $24,460","34,658",0.79,0.84,0.7,198,279,364500,88500,4 Years,27280
+187,University of Missouri - Kansas City,186,189,26 out of 100.,"Kansas City, MO","in-state: $9,582, out-of-state: $22,641","15,746",0.65,0.73,0.51,314,463,283600,107700,5 Years,26040
+188,University of Missouri - St. Louis Campus,247,RNP,U.S. News calculated a numerical rank but does not publish it.,"St. Louis, MO","in-state: $9,474, out-of-state: $24,795","16,814",0.742,0.76,0.46,418,629,229200,103800,5 Years,22280
+189,University of Montana,193,194,25 out of 100.,"Missoula, MT","in-state: $6,330, out-of-state: $23,146","12,058",0.96,0.73,0.48,565,857,158500,74500,5 Years,24480
+190,University of Nebraska - Lincoln,96,99,46 out of 100.,"Lincoln, NE","in-state: $8,060, out-of-state: $21,388","24,445",0.64,0.84,0.67,227,329,329600,83400,5 Years,23720
+191,University of Nebraska at Omaha,248,RNP,U.S. News calculated a numerical rank but does not publish it.,"Omaha, NE","in-state: $6,750, out-of-state: $18,070","15,227",0.708,0.73,0.42,505,764,185800,77200,5 Years,20640
+192,University of Nevada - Las Vegas,249,RNP,U.S. News calculated a numerical rank but does not publish it.,"Las Vegas, NV","in-state: $6,690, out-of-state: $20,600","27,858",0.851,0.77,0.43,199,280,363700,89300,5 Years,22400
+193,University of Nevada - Reno,194,194,25 out of 100.,"Reno, NV","in-state: $6,415, out-of-state: $20,325","18,776",0.84,0.79,0.51,196,277,364700,88300,5 Years,35680
+194,University of New Hampshire,97,99,46 out of 100.,"Durham, NH","in-state: $16,552, out-of-state: $29,532","14,942",0.78,0.87,0.8,246,359,317600,115500,4 Years,35760
+195,University of New Mexico,187,189,26 out of 100.,"Albuquerque, NM","in-state: $6,846, out-of-state: $20,688","27,337",0.57,0.77,0.48,307,448,287500,75500,5 Years,21200
+196,University of New Orleans,250,RNP,U.S. News calculated a numerical rank but does not publish it.,"New Orleans, LA","in-state: $7,482, out-of-state: $21,092","9,323",0.504,0.66,0.32,260,383,309300,73700,5 Years,19800
+197,University of North Carolina at Chapel Hill,29,30,71 out of 100.,"Chapel Hill, NC","in-state: $8,374, out-of-state: $33,624","29,127",0.27,0.97,0.9,263,388,304300,88700,4 Years,21400
+198,University of North Carolina at Charlotte,197,201,24 out of 100.,"Charlotte, NC","in-state: $6,179, out-of-state: $18,708","26,571",0.63,0.78,0.54,156,210,399900,73100,5 Years,24080
+199,University of North Carolina at Greensboro,183,181,27 out of 100.,"Greensboro, NC","in-state: $6,442, out-of-state: $21,304","17,707",0.58,0.76,0.55,675,1038,99600,70400,5 Years,24520
+200,University of North Dakota,165,168,29 out of 100.,"Grand Forks, ND","in-state: $7,508, out-of-state: $17,794","15,143",0.71,0.76,0.55,239,347,322900,80100,5 Years,33240
+201,University of North Texas,252,RNP,U.S. News calculated a numerical rank but does not publish it.,"Denton, TX","in-state: $9,706, out-of-state: $20,566","36,168",0.615,0.77,0.46,283,418,296600,76400,5 Years,23080
+202,University of Northern Colorado,251,RNP,U.S. News calculated a numerical rank but does not publish it.,"Greeley, CO","in-state: $7,573, out-of-state: $18,817","12,084",0.696,0.69,0.46,604,925,142500,78500,5 Years,26040
+203,University of Notre Dame,16,16,84 out of 100.,"Notre Dame, IN","$46,237","12,124",0.22,0.98,0.95,62,75,546600,226400,4 Years,25360
+204,University of Oklahoma,104,106,44 out of 100.,"Norman, OK","in-state: $7,695, out-of-state: $20,469","30,597",0.8,0.84,0.66,139,188,413100,89900,5 Years,28840
+205,University of Oregon,105,106,44 out of 100.,"Eugene, OR","in-state: $9,918, out-of-state: $30,888","24,473",0.74,0.86,0.67,339,497,272400,90600,4 Years,28480
+206,University of Pennsylvania,8,8,92 out of 100.,"Philadelphia, PA","$47,668","21,358",0.12,0.98,0.96,25,31,659000,234000,4 Years,27760
+207,University of Pittsburgh - Main Campus,66,62,56 out of 100.,"Pittsburgh, PA","in-state: $17,772, out-of-state: $28,168","28,649",0.55,0.92,0.8,216,310,342200,120800,4 Years,36640
+208,University of Rhode Island,158,161,31 out of 100.,"Kingston, RI","in-state: $12,506, out-of-state: $28,072","16,387",0.76,0.81,0.6,189,264,369900,103100,4 Years,25520
+209,University of Rochester,33,33,67 out of 100.,"Rochester, NY","$46,960","11,020",0.36,0.96,0.85,298,438,291000,232000,4 Years,26080
+210,University of San Diego,93,95,47 out of 100.,"San Diego, CA","$42,908","8,321",0.49,0.89,0.75,304,445,289400,223600,4 Years,32800
+211,University of San Francisco,106,106,44 out of 100.,"San Francisco, CA","$41,450","10,130",0.61,0.86,0.69,158,212,399700,223300,4 Years,34760
+212,University of South Alabama,253,RNP,U.S. News calculated a numerical rank but does not publish it.,"Mobile, AL","in-state: $6,948, out-of-state: $13,596","15,065",0.86,0.66,0.33,296,435,291300,71700,5 Years,31360
+213,University of South Carolina - Main Campus,109,113,43 out of 100.,"Columbia, SC","in-state: $11,158, out-of-state: $29,440","31,964",0.64,0.87,0.73,396,594,239100,93900,4 Years,28000
+214,University of South Dakota,166,168,29 out of 100.,"Vermillion, SD","in-state: $8,022, out-of-state: $10,104","10,235",0.88,0.76,0.56,550,836,164000,76100,5 Years,27040
+215,University of South Florida - Main Campus,159,161,31 out of 100.,"Tampa, FL","in-state: $6,410, out-of-state: $17,325","41,428",0.45,0.89,0.63,365,539,261500,81500,5 Years,28640
+216,University of Southern California,25,25,75 out of 100.,"Los Angeles, CA","$48,280","41,368",0.2,0.97,0.91,168,231,387500,235500,4 Years,27600
+217,University of Southern Mississippi,254,RNP,U.S. News calculated a numerical rank but does not publish it.,"Hattiesburg, MS","in-state: $6,744, out-of-state: $15,024","15,249",0.663,0.74,0.45,608,928,141700,75300,5 Years,26880
+218,"University of St. Thomas - St Paul, MN",110,113,43 out of 100.,"St. Paul, MN","$34,442","10,221",0.86,0.88,0.75,289,425,294200,188800,4 Years,41200
+219,University of Tennessee,107,106,44 out of 100.,"Knoxville, TN","in-state: $11,246, out-of-state: $29,696","30,030",0.73,0.86,0.68,235,341,325200,97800,5 Years,24560
+220,University of Texas,52,53,59 out of 100.,"Austin, TX","in-state: $9,798, out-of-state: $34,722","52,059",0.4,0.93,0.79,74,90,522700,100300,4 Years,23960
+221,University of Texas at Arlington,255,RNP,U.S. News calculated a numerical rank but does not publish it.,"Arlington, TX","in-state: $8,878, out-of-state: $20,274","33,329",0.6,0.74,0.44,132,180,426400,86600,5 Years,23840
+222,University of Texas at Dallas,143,145,35 out of 100.,"Richardson, TX","in-state: $11,806, out-of-state: $30,378","21,193",0.59,0.86,0.63,113,152,448100,94900,4 Years,22800
+223,University of Texas at El Paso,256,RNP,U.S. News calculated a numerical rank but does not publish it.,"El Paso, TX","in-state: $7,018, out-of-state: $17,639",,0.998,0.73,0.37,347,510,268800,84200,5 Years,18120
+224,University of Texas at San Antonio,257,RNP,U.S. News calculated a numerical rank but does not publish it.,"San Antonio, TX","in-state: $8,737, out-of-state: $20,050","28,623",0.62,0.62,0.3,293,430,293000,80000,5 Years,25080
+225,University of the Pacific,115,116,42 out of 100.,"Stockton, CA","$41,342","6,421",0.73,0.86,0.63,171,237,383500,214800,4 Years,23480
+226,University of Toledo,258,RNP,U.S. News calculated a numerical rank but does not publish it.,"Toledo, OH","in-state: $9,280, out-of-state: $19,158","20,782",0.907,0.65,0.46,257,378,310500,92500,5 Years,26240
+227,University of Tulsa,89,88,48 out of 100.,"Tulsa, OK","$34,704","4,597",0.41,0.88,0.69,240,347,322900,190100,4 Years,30480
+228,University of Utah,129,129,39 out of 100.,"Salt Lake City, UT","in-state: $7,935, out-of-state: $25,267","32,077",0.82,0.87,0.6,125,171,436600,86400,5 Years,27680
+229,University of Vermont,82,85,49 out of 100.,"Burlington, VT","in-state: $16,226, out-of-state: $37,874","12,723",0.78,0.86,0.76,273,401,301800,111200,4 Years,27000
+230,University of Virginia,23,23,76 out of 100.,"Charlottesville, VA","in-state: $12,998, out-of-state: $42,184","23,464",0.3,0.97,0.93,34,43,615100,97900,4 Years,29760
+231,University of Washington,50,48,60 out of 100.,"Seattle, WA","in-state: $12,394, out-of-state: $33,513","43,762",0.55,0.93,0.82,72,88,523800,99200,4 Years,22520
+232,University of West Florida,259,RNP,U.S. News calculated a numerical rank but does not publish it.,"Pensacola, FL","in-state: $8,942, out-of-state: $21,824","12,588",0.481,0.72,0.42,476,721,199900,73100,5 Years,23240
+233,University of Wisconsin,46,47,61 out of 100.,"Madison, WI","in-state: $10,410, out-of-state: $26,660","43,275",0.51,0.95,0.84,102,133,467100,65900,5 Years,25000
+234,University of Wyoming,160,161,31 out of 100.,"Laramie, WY","in-state: $4,646, out-of-state: $14,876","12,778",0.96,0.74,0.54,172,237,383500,69500,5 Years,25680
+235,Utah State University - Main Campus,195,194,25 out of 100.,"Logan, UT","in-state: $6,384, out-of-state: $18,491","27,812",0.99,0.7,0.51,160,218,396400,66600,5 Years,22320
+236,Vanderbilt University,17,16,84 out of 100.,"Nashville, TN","$43,838","12,757",0.13,0.97,0.93,56,68,556800,236200,4 Years,32680
+237,Virginia Commonwealth University,155,156,32 out of 100.,"Richmond, VA","in-state: $12,398, out-of-state: $29,847","31,288",0.64,0.86,0.57,474,718,201100,101900,5 Years,28880
+238,Virginia Polytechnic Institute and State University,74,71,52 out of 100.,"Blacksburg, VA","in-state: $12,017, out-of-state: $27,444","31,205",0.7,0.92,0.83,57,70,555000,98000,4 Years,31000
+239,Wake Forest University,27,27,73 out of 100.,"Winston-Salem, NC","$46,200","7,602",0.35,0.94,0.86,141,190,411000,228900,4 Years,29640
+240,Washington State University,136,138,37 out of 100.,"Pullman, WA","in-state: $12,428, out-of-state: $25,510","27,642",0.82,0.82,0.65,174,243,379500,103500,4 Years,26080
+241,Washington University in St. Louis,13,14,86 out of 100.,"St. Louis, MO","$46,467","14,032",0.16,0.97,0.94,80,103,495000,238000,4 Years,24760
+242,"Wayne State University - Detroit, MI",261,RNP,U.S. News calculated a numerical rank but does not publish it.,"Detroit, MI","in-state: $12,350, out-of-state: $26,592","27,897",0.762,0.77,0.32,333,487,275500,87500,5 Years,24320
+243,West Virginia University,167,168,29 out of 100.,"Morgantown, WV","in-state: $6,960, out-of-state: $20,424","29,466",0.85,0.78,0.57,183,257,373500,69500,5 Years,30040
+244,Western Michigan University,175,173,28 out of 100.,"Kalamazoo, MI","in-state: $10,685, out-of-state: $24,917","24,294",0.83,0.74,0.55,288,423,294600,88400,5 Years,31240
+245,Wichita State University,262,RNP,U.S. News calculated a numerical rank but does not publish it.,"Wichita, KS","in-state: $7,267, out-of-state: $16,697","14,550",0.958,0.72,0.46,329,483,277200,65800,5 Years,21920
+246,Widener University - Main Campus,188,189,26 out of 100.,"Chester, PA","$39,830","6,311",0.67,0.73,0.56,232,337,326200,206800,4 Years,39480
+247,Worcester Polytechnic Institute,68,68,55 out of 100.,"Worcester, MA","$42,778","6,296",0.52,0.96,0.81,14,16,722100,220900,4 Years,43600
+248,Wright State University - Main Campus,263,RNP,U.S. News calculated a numerical rank but does not publish it.,"Dayton, OH","in-state: $8,730, out-of-state: $16,910","16,656",0.963,0.63,0.41,243,352,318800,94200,5 Years,28920
+249,Yale University,2,3,98 out of 100.,"New Haven, CT","$45,800","12,109",0.07,0.99,0.98,49,60,578500,234500,4 Years,19160

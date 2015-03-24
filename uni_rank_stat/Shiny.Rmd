@@ -1,0 +1,59 @@
+---
+title: "What is the worth of your education?"
+author: "Tony Paek"
+date: "March 22, 2015"
+output: html_document
+runtime: shiny
+---
+
+```{r,message=FALSE,warning=FALSE,echo=FALSE}
+library(dplyr)
+library(ggplot2)
+library(scales)
+library(ggthemes)
+library(grid)
+library(ggvis)
+uni<-read.csv(file = 'uni.csv',header = TRUE)
+uni$Graduation_Rate<-as.numeric(as.character(uni$Graduation_Rate))
+
+renderPlot({
+  # Perform linear regression
+  f <- paste("Return_Value~",input$x_axis)
+  fit <- lm(f, data=uni)
+  # Store distance from 
+  uni$res=residuals(fit)
+  
+  
+  p<-  ggplot(data=uni, aes_string(x = input$x_axis, y = "Return_Value",color="res")) + geom_point(size = 2) +
+    geom_smooth(method=lm,se=FALSE,fullrange=TRUE) + 
+    scale_x_reverse(breaks=pretty_breaks(n=10),label=percent) +
+    scale_y_continuous(breaks=pretty_breaks(n=10),label=dollar) +
+    theme_economist() + scale_color_gradient("Distance from Line",low='firebrick',high='green',
+                                              breaks=pretty_breaks(n=5),label=dollar) +
+    theme(plot.title=element_text(hjust=0.5,face='bold'),legend.position=c(0.95,0.2)) +
+    xlab(bquote(italic(.(input$x_axis)))) + ylab(expression(italic("Cumulative ROI over 20 Years")))
+
+  if (input$x_axis=="Rank" ) {
+    p<- p +   scale_x_reverse(breaks=pretty_breaks(n=10)) +
+    ggtitle(expression(atop("Where you learn matters",atop(italic("American Universities, Selectivity and 20 Year Return"),""))))
+  }
+  else if (input$x_axis=="Acceptance_Rate") {
+    p<- p +   scale_x_reverse(breaks=pretty_breaks(n=10),label=percent) +
+    ggtitle(expression(atop("Where you learn matters",atop(italic("American Universities, University Ranking and 20 Year Return"),""))))
+  }
+else if (input$x_axis=="Graduation_Rate") {
+ p<- p + scale_x_continuous(breaks=pretty_breaks(n=10),label=percent) +
+  ggtitle(expression(atop("Study where you can graduate",atop(italic("American Universities, Graduation Rate and 20 Year Return"),""))))
+ }
+else if (input$x_axis=="Total_Cost"){
+ p<- p + scale_x_continuous(breaks=pretty_breaks(n=10),label=dollar) +
+  ggtitle(expression(atop("More Investment, Better Return",atop(italic("American Universities, 4YR Education Cost and 20 Year Return"),""))))}
+p
+}
+)
+inputPanel(
+  selectInput("x_axis", label = "Variable in x-axis",
+              choices = c("Rank", "Acceptance_Rate", "Graduation_Rate", "Total_Cost"), selected = "Rank") )
+
+
+```
