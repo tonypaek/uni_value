@@ -76,6 +76,7 @@ img {
 </div>
 <div id="graph-critique" class="section level2">
 <h2>Graph Critique</h2>
+<hr />
 <p>The graph above has many issues, which are addressed below.</p>
 <div id="two-claims-in-one-graph" class="section level3">
 <h3>1. Two Claims in One Graph</h3>
@@ -88,8 +89,8 @@ img {
 <p>Therefore, my data exploration will thus noy only look at the selectivity of a school, but also the ranking of a university, graduation rate, its tuition in order to make inference about the correlations of those factors in student’s earning potentials.</p>
 <p><strong>Y-Axis : Average Rate of Return on Educational Investment</strong></p>
 <p>20 year annual average return is calculated as below:</p>
-<p><span class="math">\[Average Rate of Return = \frac{(Aggregate Earnings of Degree Holder)-(Aggregate Earnings of Highschoolers)-(4Year Tuition)}{(20* 4Year Tuition)}\]</span></p>
-<p>++ The choice of Y-Axis makes the graph uninformed. I don’t think the rate of return on college investement is appropriate. When the graph does not even provide how much it costs to obtain a bachelor’s degree at a particular institution, the variable at a y-axis that represents the annual return on average in percentage does not inform me how much an individual insittution would help the graduates earn. The aggregate return on investment over 20 years, on the other hand, would be a better piece of information.</p>
+<p><span class="math">\[ Average Rate of Return = \frac{(Aggregate Earnings of Degree Holder)-(Aggregate Earnings of Highschoolers)-(4Year Tuition)}{(20* 4Year Tuition)} \]</span></p>
+<p>The choice of Y-Axis makes the graph uninformed. I don’t think the rate of return on college investement is appropriate. When the graph does not even provide how much it costs to obtain a bachelor’s degree at a particular institution, the variable at a y-axis that represents the annual return on average in percentage does not inform me how much an individual insittution would help the graduates earn. The aggregate return on investment over 20 years, on the other hand, would be a better piece of information.</p>
 </div>
 <div id="direction-of-selected-variables" class="section level3">
 <h3>3. Direction of Selected Variables</h3>
@@ -115,14 +116,19 @@ img {
 <p><em><a href="https://github.com/tonypaek/uni_value/blob/master/uni_rank_int/uni.csv">U.S. News College Rank Data + Payscale College Value Data</a></em></p>
 <p><em><a href="https://github.com/tonypaek/uni_value/blob/master/uni_major/uni_major.csv">Payscale College Value Data Divided by Major</a></em></p>
 <p><em><a href="https://github.com/tonypaek/uni_value/blob/master/uni_career/uni_career.csv">Payscale College Value Data Divided by Career</a></em></p>
+<p>The codes used to scrap and process data are <em><a href="https://github.com/tonypaek/uni_value/tree/master/Data_Processing">here</a></em>.</p>
 </div>
 <div id="impelementation" class="section level2">
 <h2>Impelementation</h2>
 <hr />
 <p><strong>1. Static Graph (Rank vs ROI)</strong> A simple static graph(sort of) was created, with the features that let me choose the x-axis variables, which can be accessed <em><a href="http://tonypaek.shinyapps.io/UniversityValue-rank-static">here</a></em>.</p>
+<p>The codes used to produce the graph above are <em><a href="https://github.com/tonypaek/uni_value/tree/master/uni_rank_stat">here</a></em>.</p>
 <p><strong>2. Interactive Graph (Rank vs ROI)</strong> The graph lets users (i) filter the results by rank, admission rate, graduation rate, tuition cost, name, and (ii) select variables to be displayed for both x and y axis, which can be accessed <em><a href="http://tonypaek.shinyapps.io/UniversityValue-rank-interactive">here</a></em>.</p>
+<p>The codes used to produce the graph above are <em><a href="https://github.com/tonypaek/uni_value/tree/master/uni_rank_int">here</a></em>.</p>
 <p><strong>3. Interactive Graph Organized Grouped by Major </strong> The graph lets users filter the results by ROI and total tuition, name of university, which can be accessed <em><a href="http://tonypaek.shinyapps.io/UniversityValue-Major">here</a></em>.</p>
+<p>The codes used to produce the graph above are <em><a href="https://github.com/tonypaek/uni_value/tree/master/uni_rank_major">here</a></em>.</p>
 <p><strong>4. Interactive Graph Organized Grouped by Career </strong> The graph lets users filter the results by ROI and total tuition, name of university, which can be accessed <em><a href="http://tonypaek.shinyapps.io/UniversityValue-Career">here</a></em>.</p>
+<p>The codes used to produce the graph above are <em><a href="https://github.com/tonypaek/uni_value/tree/master/uni_rank_career">here</a></em>.</p>
 </div>
 </div>
 

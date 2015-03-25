@@ -1,9 +1,3 @@
----
-layout: post
-output:
-  html_document:
-    keep_md: yes
----
 
 # What is the worth of your education?
 Tony Paek  
