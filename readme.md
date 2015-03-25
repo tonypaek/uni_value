@@ -1,3 +1,8 @@
+---
+title: "What is the worth of your education?"
+output: layout
+---
+
 
 # What is the worth of your education?
 Tony Paek  
