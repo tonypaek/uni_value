@@ -1,10 +1,10 @@
 ---
-title: "What is the worth of your education?"
-output: 
-html_document:
-keep_md: yes
-layout: post
+output:
+  html_document:
+    keep_md: yes
+title: "What is the Worth of Your Education?"
 ---
+
 
 # Monetary Value of University Degree
 Tony Paek  
